@@ -1,0 +1,986 @@
+[
+    {
+        "Title": "јбрикосовый джем",
+        "Calories": "209,5561 к ал",
+        "Proteins": "0,4589 г",
+        "Fats": "0,0551 г",
+        "Carbohydrates": "51,4907 г"
+    },
+    {
+        "Title": "¬аренье грушевое",
+        "Calories": "214,6 к ал",
+        "Proteins": "0,1 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "56,8 г"
+    },
+    {
+        "Title": "¬аренье из абрикосов по-венгерски",
+        "Calories": "241,5 к ал",
+        "Proteins": "0,3 г",
+        "Fats": "0,04 г",
+        "Carbohydrates": "64 г"
+    },
+    {
+        "Title": "¬аренье из айвы",
+        "Calories": "221,8 к ал",
+        "Proteins": "0,1 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "58,7 г"
+    },
+    {
+        "Title": "¬аренье из арбузных корок",
+        "Calories": "219,9 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,03 г",
+        "Carbohydrates": "58,4 г"
+    },
+    {
+        "Title": "¬аренье из барбариса",
+        "Calories": "203,7 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "54,3 г"
+    },
+    {
+        "Title": "¬аренье из брусники",
+        "Calories": "160,8 к ал",
+        "Proteins": "0,4 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "41,9 г"
+    },
+    {
+        "Title": "¬аренье из брусники",
+        "Calories": "244,3 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "64,6 г"
+    },
+    {
+        "Title": "¬аренье из брусники и €блок",
+        "Calories": "247,1 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "65,4 г"
+    },
+    {
+        "Title": "¬аренье из брусники по-белорусски",
+        "Calories": "191,1 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "50,4 г"
+    },
+    {
+        "Title": "¬аренье из брусники с корицей и гвоздикой",
+        "Calories": "243,7 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "64,4 г"
+    },
+    {
+        "Title": "¬аренье из вишни без косточек",
+        "Calories": "219,4 к ал",
+        "Proteins": "0,3 г",
+        "Fats": "0,07 г",
+        "Carbohydrates": "58 г"
+    },
+    {
+        "Title": "¬аренье из вод€ники",
+        "Calories": "217,8 к ал",
+        "Proteins": "0,06 г",
+        "Fats": "0,05 г",
+        "Carbohydrates": "57,9 г"
+    },
+    {
+        "Title": "¬аренье из голубики и малины",
+        "Calories": "229,1 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "60,5 г"
+    },
+    {
+        "Title": "¬аренье из жимолости",
+        "Calories": "218,2 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "58,2 г"
+    },
+    {
+        "Title": "¬аренье из кишмиша",
+        "Calories": "295,9 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "78,9 г"
+    },
+    {
+        "Title": "¬аренье из спелых абрикосов",
+        "Calories": "160,9 к ал",
+        "Proteins": "0,7 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "39,6 г"
+    },
+    {
+        "Title": "¬аренье из цедры",
+        "Calories": "174,3 к ал",
+        "Proteins": "0,4 г",
+        "Fats": "0,04 г",
+        "Carbohydrates": "45,9 г"
+    },
+    {
+        "Title": "ƒжем грушевый",
+        "Calories": "211,7 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "55,9 г"
+    },
+    {
+        "Title": "ƒжем из айвы",
+        "Calories": "222,8 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "58,9 г"
+    },
+    {
+        "Title": "ƒжем из бо€рышника и €блок",
+        "Calories": "89,4 к ал",
+        "Proteins": "0,1 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "23,5 г"
+    },
+    {
+        "Title": "ƒжем из черной бузины",
+        "Calories": "189 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "50,4 г"
+    },
+    {
+        "Title": "«асахаренный кишмиш протертый",
+        "Calories": "257,1 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "68,6 г"
+    },
+    {
+        "Title": "ќблепиховое варенье",
+        "Calories": "164,6 к ал",
+        "Proteins": "0,7 г",
+        "Fats": "3,7 г",
+        "Carbohydrates": "34,4 г"
+    },
+    {
+        "Title": "ѕовидло из абрикосов",
+        "Calories": "241,5 к ал",
+        "Proteins": "0,3 г",
+        "Fats": "0,04 г",
+        "Carbohydrates": "64 г"
+    },
+    {
+        "Title": "ѕовидло из айвы",
+        "Calories": "216 к ал",
+        "Proteins": "0,3 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "56,8 г"
+    },
+    {
+        "Title": "ѕовидло из бо€рышника",
+        "Calories": "167,8 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "44,7 г"
+    },
+    {
+        "Title": "ѕюре из черной бузины",
+        "Calories": "170,1 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "45,4 г"
+    }
+][
+    {
+        "Title": "јбрикосовый джем",
+        "Calories": "209,5561 к ал",
+        "Proteins": "0,4589 г",
+        "Fats": "0,0551 г",
+        "Carbohydrates": "51,4907 г"
+    },
+    {
+        "Title": "¬аренье грушевое",
+        "Calories": "214,6 к ал",
+        "Proteins": "0,1 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "56,8 г"
+    },
+    {
+        "Title": "¬аренье из абрикосов по-венгерски",
+        "Calories": "241,5 к ал",
+        "Proteins": "0,3 г",
+        "Fats": "0,04 г",
+        "Carbohydrates": "64 г"
+    },
+    {
+        "Title": "¬аренье из айвы",
+        "Calories": "221,8 к ал",
+        "Proteins": "0,1 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "58,7 г"
+    },
+    {
+        "Title": "¬аренье из арбузных корок",
+        "Calories": "219,9 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,03 г",
+        "Carbohydrates": "58,4 г"
+    },
+    {
+        "Title": "¬аренье из барбариса",
+        "Calories": "203,7 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "54,3 г"
+    },
+    {
+        "Title": "¬аренье из брусники",
+        "Calories": "160,8 к ал",
+        "Proteins": "0,4 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "41,9 г"
+    },
+    {
+        "Title": "¬аренье из брусники",
+        "Calories": "244,3 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "64,6 г"
+    },
+    {
+        "Title": "¬аренье из брусники и €блок",
+        "Calories": "247,1 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "65,4 г"
+    },
+    {
+        "Title": "¬аренье из брусники по-белорусски",
+        "Calories": "191,1 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "50,4 г"
+    },
+    {
+        "Title": "¬аренье из брусники с корицей и гвоздикой",
+        "Calories": "243,7 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "64,4 г"
+    },
+    {
+        "Title": "¬аренье из вишни без косточек",
+        "Calories": "219,4 к ал",
+        "Proteins": "0,3 г",
+        "Fats": "0,07 г",
+        "Carbohydrates": "58 г"
+    },
+    {
+        "Title": "¬аренье из вод€ники",
+        "Calories": "217,8 к ал",
+        "Proteins": "0,06 г",
+        "Fats": "0,05 г",
+        "Carbohydrates": "57,9 г"
+    },
+    {
+        "Title": "¬аренье из голубики и малины",
+        "Calories": "229,1 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "60,5 г"
+    },
+    {
+        "Title": "¬аренье из жимолости",
+        "Calories": "218,2 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "58,2 г"
+    },
+    {
+        "Title": "¬аренье из кишмиша",
+        "Calories": "295,9 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "78,9 г"
+    },
+    {
+        "Title": "¬аренье из спелых абрикосов",
+        "Calories": "160,9 к ал",
+        "Proteins": "0,7 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "39,6 г"
+    },
+    {
+        "Title": "¬аренье из цедры",
+        "Calories": "174,3 к ал",
+        "Proteins": "0,4 г",
+        "Fats": "0,04 г",
+        "Carbohydrates": "45,9 г"
+    },
+    {
+        "Title": "ƒжем грушевый",
+        "Calories": "211,7 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "55,9 г"
+    },
+    {
+        "Title": "ƒжем из айвы",
+        "Calories": "222,8 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "58,9 г"
+    },
+    {
+        "Title": "ƒжем из бо€рышника и €блок",
+        "Calories": "89,4 к ал",
+        "Proteins": "0,1 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "23,5 г"
+    },
+    {
+        "Title": "ƒжем из черной бузины",
+        "Calories": "189 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "50,4 г"
+    },
+    {
+        "Title": "«асахаренный кишмиш протертый",
+        "Calories": "257,1 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "68,6 г"
+    },
+    {
+        "Title": "ќблепиховое варенье",
+        "Calories": "164,6 к ал",
+        "Proteins": "0,7 г",
+        "Fats": "3,7 г",
+        "Carbohydrates": "34,4 г"
+    },
+    {
+        "Title": "ѕовидло из абрикосов",
+        "Calories": "241,5 к ал",
+        "Proteins": "0,3 г",
+        "Fats": "0,04 г",
+        "Carbohydrates": "64 г"
+    },
+    {
+        "Title": "ѕовидло из айвы",
+        "Calories": "216 к ал",
+        "Proteins": "0,3 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "56,8 г"
+    },
+    {
+        "Title": "ѕовидло из бо€рышника",
+        "Calories": "167,8 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "44,7 г"
+    },
+    {
+        "Title": "ѕюре из черной бузины",
+        "Calories": "170,1 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "45,4 г"
+    }
+][
+    {
+        "Title": "јбрикосовый джем",
+        "Calories": "209,5561 к ал",
+        "Proteins": "0,4589 г",
+        "Fats": "0,0551 г",
+        "Carbohydrates": "51,4907 г"
+    },
+    {
+        "Title": "¬аренье грушевое",
+        "Calories": "214,6 к ал",
+        "Proteins": "0,1 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "56,8 г"
+    },
+    {
+        "Title": "¬аренье из абрикосов по-венгерски",
+        "Calories": "241,5 к ал",
+        "Proteins": "0,3 г",
+        "Fats": "0,04 г",
+        "Carbohydrates": "64 г"
+    },
+    {
+        "Title": "¬аренье из айвы",
+        "Calories": "221,8 к ал",
+        "Proteins": "0,1 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "58,7 г"
+    },
+    {
+        "Title": "¬аренье из арбузных корок",
+        "Calories": "219,9 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,03 г",
+        "Carbohydrates": "58,4 г"
+    },
+    {
+        "Title": "¬аренье из барбариса",
+        "Calories": "203,7 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "54,3 г"
+    },
+    {
+        "Title": "¬аренье из брусники",
+        "Calories": "160,8 к ал",
+        "Proteins": "0,4 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "41,9 г"
+    },
+    {
+        "Title": "¬аренье из брусники",
+        "Calories": "244,3 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "64,6 г"
+    },
+    {
+        "Title": "¬аренье из брусники и €блок",
+        "Calories": "247,1 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "65,4 г"
+    },
+    {
+        "Title": "¬аренье из брусники по-белорусски",
+        "Calories": "191,1 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "50,4 г"
+    },
+    {
+        "Title": "¬аренье из брусники с корицей и гвоздикой",
+        "Calories": "243,7 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "64,4 г"
+    },
+    {
+        "Title": "¬аренье из вишни без косточек",
+        "Calories": "219,4 к ал",
+        "Proteins": "0,3 г",
+        "Fats": "0,07 г",
+        "Carbohydrates": "58 г"
+    },
+    {
+        "Title": "¬аренье из вод€ники",
+        "Calories": "217,8 к ал",
+        "Proteins": "0,06 г",
+        "Fats": "0,05 г",
+        "Carbohydrates": "57,9 г"
+    },
+    {
+        "Title": "¬аренье из голубики и малины",
+        "Calories": "229,1 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "60,5 г"
+    },
+    {
+        "Title": "¬аренье из жимолости",
+        "Calories": "218,2 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "58,2 г"
+    },
+    {
+        "Title": "¬аренье из кишмиша",
+        "Calories": "295,9 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "78,9 г"
+    },
+    {
+        "Title": "¬аренье из спелых абрикосов",
+        "Calories": "160,9 к ал",
+        "Proteins": "0,7 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "39,6 г"
+    },
+    {
+        "Title": "¬аренье из цедры",
+        "Calories": "174,3 к ал",
+        "Proteins": "0,4 г",
+        "Fats": "0,04 г",
+        "Carbohydrates": "45,9 г"
+    },
+    {
+        "Title": "ƒжем грушевый",
+        "Calories": "211,7 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "55,9 г"
+    },
+    {
+        "Title": "ƒжем из айвы",
+        "Calories": "222,8 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "58,9 г"
+    },
+    {
+        "Title": "ƒжем из бо€рышника и €блок",
+        "Calories": "89,4 к ал",
+        "Proteins": "0,1 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "23,5 г"
+    },
+    {
+        "Title": "ƒжем из черной бузины",
+        "Calories": "189 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "50,4 г"
+    },
+    {
+        "Title": "«асахаренный кишмиш протертый",
+        "Calories": "257,1 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "68,6 г"
+    },
+    {
+        "Title": "ќблепиховое варенье",
+        "Calories": "164,6 к ал",
+        "Proteins": "0,7 г",
+        "Fats": "3,7 г",
+        "Carbohydrates": "34,4 г"
+    },
+    {
+        "Title": "ѕовидло из абрикосов",
+        "Calories": "241,5 к ал",
+        "Proteins": "0,3 г",
+        "Fats": "0,04 г",
+        "Carbohydrates": "64 г"
+    },
+    {
+        "Title": "ѕовидло из айвы",
+        "Calories": "216 к ал",
+        "Proteins": "0,3 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "56,8 г"
+    },
+    {
+        "Title": "ѕовидло из бо€рышника",
+        "Calories": "167,8 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "44,7 г"
+    },
+    {
+        "Title": "ѕюре из черной бузины",
+        "Calories": "170,1 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "45,4 г"
+    }
+][
+    {
+        "Title": "јбрикосовый джем",
+        "Calories": "209,5561 к ал",
+        "Proteins": "0,4589 г",
+        "Fats": "0,0551 г",
+        "Carbohydrates": "51,4907 г"
+    },
+    {
+        "Title": "¬аренье грушевое",
+        "Calories": "214,6 к ал",
+        "Proteins": "0,1 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "56,8 г"
+    },
+    {
+        "Title": "¬аренье из абрикосов по-венгерски",
+        "Calories": "241,5 к ал",
+        "Proteins": "0,3 г",
+        "Fats": "0,04 г",
+        "Carbohydrates": "64 г"
+    },
+    {
+        "Title": "¬аренье из айвы",
+        "Calories": "221,8 к ал",
+        "Proteins": "0,1 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "58,7 г"
+    },
+    {
+        "Title": "¬аренье из арбузных корок",
+        "Calories": "219,9 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,03 г",
+        "Carbohydrates": "58,4 г"
+    },
+    {
+        "Title": "¬аренье из барбариса",
+        "Calories": "203,7 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "54,3 г"
+    },
+    {
+        "Title": "¬аренье из брусники",
+        "Calories": "160,8 к ал",
+        "Proteins": "0,4 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "41,9 г"
+    },
+    {
+        "Title": "¬аренье из брусники",
+        "Calories": "244,3 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "64,6 г"
+    },
+    {
+        "Title": "¬аренье из брусники и €блок",
+        "Calories": "247,1 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "65,4 г"
+    },
+    {
+        "Title": "¬аренье из брусники по-белорусски",
+        "Calories": "191,1 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "50,4 г"
+    },
+    {
+        "Title": "¬аренье из брусники с корицей и гвоздикой",
+        "Calories": "243,7 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "64,4 г"
+    },
+    {
+        "Title": "¬аренье из вишни без косточек",
+        "Calories": "219,4 к ал",
+        "Proteins": "0,3 г",
+        "Fats": "0,07 г",
+        "Carbohydrates": "58 г"
+    },
+    {
+        "Title": "¬аренье из вод€ники",
+        "Calories": "217,8 к ал",
+        "Proteins": "0,06 г",
+        "Fats": "0,05 г",
+        "Carbohydrates": "57,9 г"
+    },
+    {
+        "Title": "¬аренье из голубики и малины",
+        "Calories": "229,1 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "60,5 г"
+    },
+    {
+        "Title": "¬аренье из жимолости",
+        "Calories": "218,2 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "58,2 г"
+    },
+    {
+        "Title": "¬аренье из кишмиша",
+        "Calories": "295,9 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "78,9 г"
+    },
+    {
+        "Title": "¬аренье из спелых абрикосов",
+        "Calories": "160,9 к ал",
+        "Proteins": "0,7 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "39,6 г"
+    },
+    {
+        "Title": "¬аренье из цедры",
+        "Calories": "174,3 к ал",
+        "Proteins": "0,4 г",
+        "Fats": "0,04 г",
+        "Carbohydrates": "45,9 г"
+    },
+    {
+        "Title": "ƒжем грушевый",
+        "Calories": "211,7 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "55,9 г"
+    },
+    {
+        "Title": "ƒжем из айвы",
+        "Calories": "222,8 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "58,9 г"
+    },
+    {
+        "Title": "ƒжем из бо€рышника и €блок",
+        "Calories": "89,4 к ал",
+        "Proteins": "0,1 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "23,5 г"
+    },
+    {
+        "Title": "ƒжем из черной бузины",
+        "Calories": "189 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "50,4 г"
+    },
+    {
+        "Title": "«асахаренный кишмиш протертый",
+        "Calories": "257,1 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "68,6 г"
+    },
+    {
+        "Title": "ќблепиховое варенье",
+        "Calories": "164,6 к ал",
+        "Proteins": "0,7 г",
+        "Fats": "3,7 г",
+        "Carbohydrates": "34,4 г"
+    },
+    {
+        "Title": "ѕовидло из абрикосов",
+        "Calories": "241,5 к ал",
+        "Proteins": "0,3 г",
+        "Fats": "0,04 г",
+        "Carbohydrates": "64 г"
+    },
+    {
+        "Title": "ѕовидло из айвы",
+        "Calories": "216 к ал",
+        "Proteins": "0,3 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "56,8 г"
+    },
+    {
+        "Title": "ѕовидло из бо€рышника",
+        "Calories": "167,8 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "44,7 г"
+    },
+    {
+        "Title": "ѕюре из черной бузины",
+        "Calories": "170,1 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "45,4 г"
+    }
+][
+    {
+        "Title": "јбрикосовый джем",
+        "Calories": "209,5561 к ал",
+        "Proteins": "0,4589 г",
+        "Fats": "0,0551 г",
+        "Carbohydrates": "51,4907 г"
+    },
+    {
+        "Title": "¬аренье грушевое",
+        "Calories": "214,6 к ал",
+        "Proteins": "0,1 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "56,8 г"
+    },
+    {
+        "Title": "¬аренье из абрикосов по-венгерски",
+        "Calories": "241,5 к ал",
+        "Proteins": "0,3 г",
+        "Fats": "0,04 г",
+        "Carbohydrates": "64 г"
+    },
+    {
+        "Title": "¬аренье из айвы",
+        "Calories": "221,8 к ал",
+        "Proteins": "0,1 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "58,7 г"
+    },
+    {
+        "Title": "¬аренье из арбузных корок",
+        "Calories": "219,9 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,03 г",
+        "Carbohydrates": "58,4 г"
+    },
+    {
+        "Title": "¬аренье из барбариса",
+        "Calories": "203,7 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "54,3 г"
+    },
+    {
+        "Title": "¬аренье из брусники",
+        "Calories": "160,8 к ал",
+        "Proteins": "0,4 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "41,9 г"
+    },
+    {
+        "Title": "¬аренье из брусники",
+        "Calories": "244,3 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "64,6 г"
+    },
+    {
+        "Title": "¬аренье из брусники и €блок",
+        "Calories": "247,1 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "65,4 г"
+    },
+    {
+        "Title": "¬аренье из брусники по-белорусски",
+        "Calories": "191,1 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "50,4 г"
+    },
+    {
+        "Title": "¬аренье из брусники с корицей и гвоздикой",
+        "Calories": "243,7 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "64,4 г"
+    },
+    {
+        "Title": "¬аренье из вишни без косточек",
+        "Calories": "219,4 к ал",
+        "Proteins": "0,3 г",
+        "Fats": "0,07 г",
+        "Carbohydrates": "58 г"
+    },
+    {
+        "Title": "¬аренье из вод€ники",
+        "Calories": "217,8 к ал",
+        "Proteins": "0,06 г",
+        "Fats": "0,05 г",
+        "Carbohydrates": "57,9 г"
+    },
+    {
+        "Title": "¬аренье из голубики и малины",
+        "Calories": "229,1 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "60,5 г"
+    },
+    {
+        "Title": "¬аренье из жимолости",
+        "Calories": "218,2 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "58,2 г"
+    },
+    {
+        "Title": "¬аренье из кишмиша",
+        "Calories": "295,9 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "78,9 г"
+    },
+    {
+        "Title": "¬аренье из спелых абрикосов",
+        "Calories": "160,9 к ал",
+        "Proteins": "0,7 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "39,6 г"
+    },
+    {
+        "Title": "¬аренье из цедры",
+        "Calories": "174,3 к ал",
+        "Proteins": "0,4 г",
+        "Fats": "0,04 г",
+        "Carbohydrates": "45,9 г"
+    },
+    {
+        "Title": "ƒжем грушевый",
+        "Calories": "211,7 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "55,9 г"
+    },
+    {
+        "Title": "ƒжем из айвы",
+        "Calories": "222,8 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "58,9 г"
+    },
+    {
+        "Title": "ƒжем из бо€рышника и €блок",
+        "Calories": "89,4 к ал",
+        "Proteins": "0,1 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "23,5 г"
+    },
+    {
+        "Title": "ƒжем из черной бузины",
+        "Calories": "189 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "50,4 г"
+    },
+    {
+        "Title": "«асахаренный кишмиш протертый",
+        "Calories": "257,1 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "68,6 г"
+    },
+    {
+        "Title": "ќблепиховое варенье",
+        "Calories": "164,6 к ал",
+        "Proteins": "0,7 г",
+        "Fats": "3,7 г",
+        "Carbohydrates": "34,4 г"
+    },
+    {
+        "Title": "ѕовидло из абрикосов",
+        "Calories": "241,5 к ал",
+        "Proteins": "0,3 г",
+        "Fats": "0,04 г",
+        "Carbohydrates": "64 г"
+    },
+    {
+        "Title": "ѕовидло из айвы",
+        "Calories": "216 к ал",
+        "Proteins": "0,3 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "56,8 г"
+    },
+    {
+        "Title": "ѕовидло из бо€рышника",
+        "Calories": "167,8 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "44,7 г"
+    },
+    {
+        "Title": "ѕюре из черной бузины",
+        "Calories": "170,1 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "45,4 г"
+    }
+]

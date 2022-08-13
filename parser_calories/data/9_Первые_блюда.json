@@ -1,0 +1,2285 @@
+[
+    {
+        "Title": "Ѕорщ",
+        "Calories": "57,7 к ал",
+        "Proteins": "3,8 г",
+        "Fats": "2,9 г",
+        "Carbohydrates": "4,3 г"
+    },
+    {
+        "Title": "Ѕорщ из свежей капусты и картофел€ по 1-110",
+        "Calories": "36 к ал",
+        "Proteins": "1 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "5,4 г"
+    },
+    {
+        "Title": "Ѕорщ кубанский с кабачками",
+        "Calories": "88,2 к ал",
+        "Proteins": "4,9 г",
+        "Fats": "5,7 г",
+        "Carbohydrates": "4,7 г"
+    },
+    {
+        "Title": "Ѕорщ летний (с ботвой свеклы)",
+        "Calories": "69 к ал",
+        "Proteins": "3,9 г",
+        "Fats": "3,2 г",
+        "Carbohydrates": "6,6 г"
+    },
+    {
+        "Title": "Ѕорщ летний по 1-122",
+        "Calories": "38 к ал",
+        "Proteins": "1,1 г",
+        "Fats": "1,2 г",
+        "Carbohydrates": "5,7 г"
+    },
+    {
+        "Title": "Ѕорщ московский",
+        "Calories": "115,5 к ал",
+        "Proteins": "8,3 г",
+        "Fats": "7,2 г",
+        "Carbohydrates": "4,6 г"
+    },
+    {
+        "Title": "Ѕорщ по 1-110",
+        "Calories": "29 к ал",
+        "Proteins": "0,8 г",
+        "Fats": "1 г",
+        "Carbohydrates": "4,1 г"
+    },
+    {
+        "Title": "Ѕорщ по-вегетариански",
+        "Calories": "34,7 к ал",
+        "Proteins": "0,5 г",
+        "Fats": "2,7 г",
+        "Carbohydrates": "2,2 г"
+    },
+    {
+        "Title": "Ѕорщ с капустой и картофелем",
+        "Calories": "61,6 к ал",
+        "Proteins": "3,8 г",
+        "Fats": "2,9 г",
+        "Carbohydrates": "5,4 г"
+    },
+    {
+        "Title": "Ѕорщ с картофелем по 1-112",
+        "Calories": "42 к ал",
+        "Proteins": "1,1 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "6,8 г"
+    },
+    {
+        "Title": "Ѕорщ с черносливом и грибами",
+        "Calories": "74 к ал",
+        "Proteins": "4,6 г",
+        "Fats": "3,1 г",
+        "Carbohydrates": "7,4 г"
+    },
+    {
+        "Title": "Ѕорщ сибирский",
+        "Calories": "76,7 к ал",
+        "Proteins": "5,4 г",
+        "Fats": "3,4 г",
+        "Carbohydrates": "6,5 г"
+    },
+    {
+        "Title": "Ѕорщ украинский",
+        "Calories": "90,2 к ал",
+        "Proteins": "4,4 г",
+        "Fats": "4,4 г",
+        "Carbohydrates": "8,7 г"
+    },
+    {
+        "Title": "Ѕорщ украинский по 1-122",
+        "Calories": "50 к ал",
+        "Proteins": "1,1 г",
+        "Fats": "2,2 г",
+        "Carbohydrates": "6,5 г"
+    },
+    {
+        "Title": "Ѕорщ холодный",
+        "Calories": "27,1 к ал",
+        "Proteins": "1,1 г",
+        "Fats": "1,3 г",
+        "Carbohydrates": "3 г"
+    },
+    {
+        "Title": "Ѕорщ холодный",
+        "Calories": "45,7 к ал",
+        "Proteins": "1,5 г",
+        "Fats": "3,2 г",
+        "Carbohydrates": "3 г"
+    },
+    {
+        "Title": "√ов€жий суп",
+        "Calories": "28,8 к ал",
+        "Proteins": "2,3 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "2,6 г"
+    },
+    {
+        "Title": "√олландский зеленый суп",
+        "Calories": "65,3 к ал",
+        "Proteins": "4,8 г",
+        "Fats": "1,4 г",
+        "Carbohydrates": "8,8 г"
+    },
+    {
+        "Title": "√олландский зеленый суп",
+        "Calories": "0 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "√ороховый суп",
+        "Calories": "54,3 к ал",
+        "Proteins": "2,2 г",
+        "Fats": "3 г",
+        "Carbohydrates": "5 г"
+    },
+    {
+        "Title": "√рибной борщ",
+        "Calories": "27,1 к ал",
+        "Proteins": "0,7 г",
+        "Fats": "2,1 г",
+        "Carbohydrates": "1,4 г"
+    },
+    {
+        "Title": "√рибной суп",
+        "Calories": "50,9 к ал",
+        "Proteins": "0,8 г",
+        "Fats": "3,4 г",
+        "Carbohydrates": "4,6 г"
+    },
+    {
+        "Title": " уриный суп по-индийски",
+        "Calories": "0 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": " уриный суп с макаронами",
+        "Calories": "59,7 к ал",
+        "Proteins": "4,5 г",
+        "Fats": "3,3 г",
+        "Carbohydrates": "3,1 г"
+    },
+    {
+        "Title": "Ћитовский холодный борщ",
+        "Calories": "63,8 к ал",
+        "Proteins": "2,9 г",
+        "Fats": "2,2 г",
+        "Carbohydrates": "8,6 г"
+    },
+    {
+        "Title": "Ћэпсытепх (бульон с жареными орешками из муки и зажаркой - адыгейское национальное блюдо)",
+        "Calories": "167,1 к ал",
+        "Proteins": "11,4 г",
+        "Fats": "10,3 г",
+        "Carbohydrates": "7,6 г"
+    },
+    {
+        "Title": "ћолочный суп с морковью",
+        "Calories": "33,6 к ал",
+        "Proteins": "1,6 г",
+        "Fats": "1,5 г",
+        "Carbohydrates": "3,7 г"
+    },
+    {
+        "Title": "ќкрошка м€сна€ на кефире с гов€диной, по 1-194",
+        "Calories": "39 к ал",
+        "Proteins": "2,8 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "4,3 г"
+    },
+    {
+        "Title": "ќкрошка м€сна€ со сметаной и гов€диной,  по 1-192",
+        "Calories": "52 к ал",
+        "Proteins": "2,1 г",
+        "Fats": "1,7 г",
+        "Carbohydrates": "6,3 г"
+    },
+    {
+        "Title": "ќкрошка овощна€ по 1-192",
+        "Calories": "39 к ал",
+        "Proteins": "0,9 г",
+        "Fats": "0,8 г",
+        "Carbohydrates": "6,8 г"
+    },
+    {
+        "Title": "ѕохлебка грибна€ (карельское национальное блюдо)",
+        "Calories": "81,6 к ал",
+        "Proteins": "3,1 г",
+        "Fats": "4,1 г",
+        "Carbohydrates": "8,5 г"
+    },
+    {
+        "Title": "ѕохлебка из сардин в горшочке",
+        "Calories": "115,8 к ал",
+        "Proteins": "6,4 г",
+        "Fats": "6,9 г",
+        "Carbohydrates": "7,5 г"
+    },
+    {
+        "Title": "ѕохлебка по-суворовски",
+        "Calories": "70,4 к ал",
+        "Proteins": "8,7 г",
+        "Fats": "2,4 г",
+        "Carbohydrates": "3,8 г"
+    },
+    {
+        "Title": "ѕохлебка рыбна€ по-сибирски",
+        "Calories": "57,8 к ал",
+        "Proteins": "4,8 г",
+        "Fats": "1,5 г",
+        "Carbohydrates": "6,7 г"
+    },
+    {
+        "Title": "ѕохлебка старомосковска€",
+        "Calories": "94,1 к ал",
+        "Proteins": "3,6 г",
+        "Fats": "7,1 г",
+        "Carbohydrates": "4,2 г"
+    },
+    {
+        "Title": "–ассольник",
+        "Calories": "40,4 к ал",
+        "Proteins": "0,9 г",
+        "Fats": "1,6 г",
+        "Carbohydrates": "5,9 г"
+    },
+    {
+        "Title": "–ассольник",
+        "Calories": "0 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "–ассольник домашний",
+        "Calories": "38,4 к ал",
+        "Proteins": "0,9 г",
+        "Fats": "1,6 г",
+        "Carbohydrates": "5,4 г"
+    },
+    {
+        "Title": "–ассольник домашний по 1-136",
+        "Calories": "36 к ал",
+        "Proteins": "1 г",
+        "Fats": "1 г",
+        "Carbohydrates": "5,8 г"
+    },
+    {
+        "Title": "–ассольник ленинградский",
+        "Calories": "53,3 к ал",
+        "Proteins": "1,3 г",
+        "Fats": "1,7 г",
+        "Carbohydrates": "8,8 г"
+    },
+    {
+        "Title": "–ассольник по-кубански",
+        "Calories": "100,8 к ал",
+        "Proteins": "4,9 г",
+        "Fats": "5,7 г",
+        "Carbohydrates": "7,9 г"
+    },
+    {
+        "Title": "–исовый грибной суп",
+        "Calories": "62,7 к ал",
+        "Proteins": "2 г",
+        "Fats": "2,2 г",
+        "Carbohydrates": "9,3 г"
+    },
+    {
+        "Title": "—векольник холодный",
+        "Calories": "62,6 к ал",
+        "Proteins": "1,8 г",
+        "Fats": "3,6 г",
+        "Carbohydrates": "6,2 г"
+    },
+    {
+        "Title": "—векольник холодный по 1-198",
+        "Calories": "30 к ал",
+        "Proteins": "0,8 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "6,1 г"
+    },
+    {
+        "Title": "—ладкий суп из черники с клецками",
+        "Calories": "75,8 к ал",
+        "Proteins": "1,4 г",
+        "Fats": "1,3 г",
+        "Carbohydrates": "15,6 г"
+    },
+    {
+        "Title": "—ол€нка грибна€ по 1-172",
+        "Calories": "18 к ал",
+        "Proteins": "0,5 г",
+        "Fats": "1,2 г",
+        "Carbohydrates": "1,3 г"
+    },
+    {
+        "Title": "—ол€нка рыбна€, по 1-170",
+        "Calories": "25 к ал",
+        "Proteins": "2,4 г",
+        "Fats": "1,2 г",
+        "Carbohydrates": "1,2 г"
+    },
+    {
+        "Title": "—ол€нка сборна€ м€сна€, по 1-168",
+        "Calories": "39 к ал",
+        "Proteins": "2,1 г",
+        "Fats": "2,8 г",
+        "Carbohydrates": "1,3 г"
+    },
+    {
+        "Title": "—уп \"≈реванский\"",
+        "Calories": "54,1 к ал",
+        "Proteins": "3,1 г",
+        "Fats": "1,9 г",
+        "Carbohydrates": "6,5 г"
+    },
+    {
+        "Title": "—уп \"’инкал\" (суп с м€сом и ракушками - дагестанское национальное блюдо)",
+        "Calories": "125,1 к ал",
+        "Proteins": "10,2 г",
+        "Fats": "6,1 г",
+        "Carbohydrates": "7,8 г"
+    },
+    {
+        "Title": "—уп вишневый с клецками",
+        "Calories": "79,3 к ал",
+        "Proteins": "2 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "16,4 г"
+    },
+    {
+        "Title": "—уп гороховый с €блоками",
+        "Calories": "44 к ал",
+        "Proteins": "2,5 г",
+        "Fats": "2,3 г",
+        "Carbohydrates": "3,6 г"
+    },
+    {
+        "Title": "—уп грибной картофельный",
+        "Calories": "45,5 к ал",
+        "Proteins": "0,8 г",
+        "Fats": "3,7 г",
+        "Carbohydrates": "2,6 г"
+    },
+    {
+        "Title": "—уп грибной с пирожками",
+        "Calories": "60,3 к ал",
+        "Proteins": "1,3 г",
+        "Fats": "5,2 г",
+        "Carbohydrates": "2,2 г"
+    },
+    {
+        "Title": "—уп из белых грибов с макаронами",
+        "Calories": "58,1 к ал",
+        "Proteins": "1,4 г",
+        "Fats": "4,7 г",
+        "Carbohydrates": "2,8 г"
+    },
+    {
+        "Title": "—уп из гов€дины",
+        "Calories": "41,9 к ал",
+        "Proteins": "2,4 г",
+        "Fats": "2,5 г",
+        "Carbohydrates": "2,6 г"
+    },
+    {
+        "Title": "—уп из клюквы и €блок",
+        "Calories": "51 к ал",
+        "Proteins": "0,4 г",
+        "Fats": "1,9 г",
+        "Carbohydrates": "8,7 г"
+    },
+    {
+        "Title": "—уп из моркови и кефира",
+        "Calories": "58 к ал",
+        "Proteins": "2,3 г",
+        "Fats": "2,1 г",
+        "Carbohydrates": "8 г"
+    },
+    {
+        "Title": "—уп из овощей",
+        "Calories": "36,7 к ал",
+        "Proteins": "1,7 г",
+        "Fats": "1,6 г",
+        "Carbohydrates": "4,2 г"
+    },
+    {
+        "Title": "—уп из овс€ной крупы с €блоками",
+        "Calories": "62,4 к ал",
+        "Proteins": "1,7 г",
+        "Fats": "1,4 г",
+        "Carbohydrates": "11,5 г"
+    },
+    {
+        "Title": "—уп из овс€ных хлопьев с €блоками",
+        "Calories": "48,1 к ал",
+        "Proteins": "1,7 г",
+        "Fats": "1,5 г",
+        "Carbohydrates": "7,4 г"
+    },
+    {
+        "Title": "—уп из плодов свежих",
+        "Calories": "63,2 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "16,2 г"
+    },
+    {
+        "Title": "—уп из свежих помидоров",
+        "Calories": "37,4 к ал",
+        "Proteins": "0,9 г",
+        "Fats": "2,1 г",
+        "Carbohydrates": "4 г"
+    },
+    {
+        "Title": "—уп из свежих фруктов по 1-200",
+        "Calories": "50 к ал",
+        "Proteins": "0,1 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "11,9 г"
+    },
+    {
+        "Title": "—уп из свекольной ботвы и щавел€",
+        "Calories": "46,6 к ал",
+        "Proteins": "1,7 г",
+        "Fats": "3,8 г",
+        "Carbohydrates": "1,6 г"
+    },
+    {
+        "Title": "—уп из смеси сухофруктов",
+        "Calories": "80,5 к ал",
+        "Proteins": "0,5 г",
+        "Fats": "0 г",
+        "Carbohydrates": "20,9 г"
+    },
+    {
+        "Title": "—уп из спаржи",
+        "Calories": "78 к ал",
+        "Proteins": "2,6 г",
+        "Fats": "4,8 г",
+        "Carbohydrates": "6,6 г"
+    },
+    {
+        "Title": "—уп из утки",
+        "Calories": "283 к ал",
+        "Proteins": "10,9 г",
+        "Fats": "23 г",
+        "Carbohydrates": "8,6 г"
+    },
+    {
+        "Title": "—уп из фасоли с орехами",
+        "Calories": "67 к ал",
+        "Proteins": "2,3 г",
+        "Fats": "4,8 г",
+        "Carbohydrates": "3,8 г"
+    },
+    {
+        "Title": "—уп из цветной капусты",
+        "Calories": "36,8 к ал",
+        "Proteins": "1 г",
+        "Fats": "3,2 г",
+        "Carbohydrates": "1,1 г"
+    },
+    {
+        "Title": "—уп из черники с клецками",
+        "Calories": "105,4 к ал",
+        "Proteins": "4,6 г",
+        "Fats": "2,3 г",
+        "Carbohydrates": "17,6 г"
+    },
+    {
+        "Title": "—уп из черники с макаронами",
+        "Calories": "34,2 к ал",
+        "Proteins": "0,5 г",
+        "Fats": "0,8 г",
+        "Carbohydrates": "6,6 г"
+    },
+    {
+        "Title": "—уп из чечевицы",
+        "Calories": "67,8 к ал",
+        "Proteins": "2,5 г",
+        "Fats": "4,2 г",
+        "Carbohydrates": "5,2 г"
+    },
+    {
+        "Title": "—уп картофельный",
+        "Calories": "50,6 к ал",
+        "Proteins": "1,3 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "9,4 г"
+    },
+    {
+        "Title": "—уп картофельный по 1-142",
+        "Calories": "45 к ал",
+        "Proteins": "1,1 г",
+        "Fats": "1,2 г",
+        "Carbohydrates": "7,8 г"
+    },
+    {
+        "Title": "—уп картофельный с бобовыми",
+        "Calories": "73,3 к ал",
+        "Proteins": "2,7 г",
+        "Fats": "2,4 г",
+        "Carbohydrates": "10,8 г"
+    },
+    {
+        "Title": "—уп картофельный с грибами",
+        "Calories": "42,2 к ал",
+        "Proteins": "1,7 г",
+        "Fats": "1,2 г",
+        "Carbohydrates": "6,5 г"
+    },
+    {
+        "Title": "—уп картофельный с кальмарами",
+        "Calories": "62,4 к ал",
+        "Proteins": "4 г",
+        "Fats": "2,4 г",
+        "Carbohydrates": "6,5 г"
+    },
+    {
+        "Title": "—уп картофельный с крупой",
+        "Calories": "53,6 к ал",
+        "Proteins": "1,3 г",
+        "Fats": "1,2 г",
+        "Carbohydrates": "10 г"
+    },
+    {
+        "Title": "—уп картофельный с макаронными издели€ми",
+        "Calories": "47,7 к ал",
+        "Proteins": "1,3 г",
+        "Fats": "1 г",
+        "Carbohydrates": "8,8 г"
+    },
+    {
+        "Title": "—уп картофельный с м€сными фрикадельками",
+        "Calories": "57,6 к ал",
+        "Proteins": "3,3 г",
+        "Fats": "2,2 г",
+        "Carbohydrates": "6,5 г"
+    },
+    {
+        "Title": "—уп картофельный с перловой крупой по 1-146",
+        "Calories": "37 к ал",
+        "Proteins": "1 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "6,5 г"
+    },
+    {
+        "Title": "—уп картофельный с рыбными фрикадельками",
+        "Calories": "48,9 к ал",
+        "Proteins": "2,5 г",
+        "Fats": "1,6 г",
+        "Carbohydrates": "6,6 г"
+    },
+    {
+        "Title": "—уп картофельный со сладким перцем",
+        "Calories": "55,9 к ал",
+        "Proteins": "0,9 г",
+        "Fats": "3,7 г",
+        "Carbohydrates": "4,9 г"
+    },
+    {
+        "Title": "—уп лапша грибна€",
+        "Calories": "41,3 к ал",
+        "Proteins": "1,6 г",
+        "Fats": "2,1 г",
+        "Carbohydrates": "4,1 г"
+    },
+    {
+        "Title": "—уп молочный рисовый",
+        "Calories": "99,2 к ал",
+        "Proteins": "3,1 г",
+        "Fats": "5 г",
+        "Carbohydrates": "11,1 г"
+    },
+    {
+        "Title": "—уп молочный с белокочанной капустой, по 1-180",
+        "Calories": "54 к ал",
+        "Proteins": "2 г",
+        "Fats": "2 г",
+        "Carbohydrates": "6,8 г"
+    },
+    {
+        "Title": "—уп молочный с грибами",
+        "Calories": "67,2 к ал",
+        "Proteins": "2,5 г",
+        "Fats": "3,3 г",
+        "Carbohydrates": "7,3 г"
+    },
+    {
+        "Title": "—уп молочный с картофельными \"стружками\"",
+        "Calories": "51,3 к ал",
+        "Proteins": "1,4 г",
+        "Fats": "3,6 г",
+        "Carbohydrates": "3,5 г"
+    },
+    {
+        "Title": "—уп молочный с клецками",
+        "Calories": "110,9 к ал",
+        "Proteins": "3,8 г",
+        "Fats": "5,2 г",
+        "Carbohydrates": "13 г"
+    },
+    {
+        "Title": "—уп молочный с крупой",
+        "Calories": "68,2 к ал",
+        "Proteins": "2,6 г",
+        "Fats": "2,8 г",
+        "Carbohydrates": "8,7 г"
+    },
+    {
+        "Title": "—уп молочный с макаронами, по 1-172",
+        "Calories": "58 к ал",
+        "Proteins": "2,2 г",
+        "Fats": "1,9 г",
+        "Carbohydrates": "7,9 г"
+    },
+    {
+        "Title": "—уп молочный с макаронными издели€ми",
+        "Calories": "64,6 к ал",
+        "Proteins": "2,8 г",
+        "Fats": "2,7 г",
+        "Carbohydrates": "7,7 г"
+    },
+    {
+        "Title": "—уп молочный с овощами",
+        "Calories": "84,9 к ал",
+        "Proteins": "4,5 г",
+        "Fats": "2,8 г",
+        "Carbohydrates": "11,2 г"
+    },
+    {
+        "Title": "—уп молочный с рисом",
+        "Calories": "61,9 к ал",
+        "Proteins": "2,2 г",
+        "Fats": "2,8 г",
+        "Carbohydrates": "7,5 г"
+    },
+    {
+        "Title": "—уп молочный с рисом",
+        "Calories": "81 к ал",
+        "Proteins": "2,1 г",
+        "Fats": "3,9 г",
+        "Carbohydrates": "10 г"
+    },
+    {
+        "Title": "—уп молочный с рисом, по 1-174",
+        "Calories": "54 к ал",
+        "Proteins": "1,8 г",
+        "Fats": "1,9 г",
+        "Carbohydrates": "7,3 г"
+    },
+    {
+        "Title": "—уп молочный с тыквой",
+        "Calories": "50,9 к ал",
+        "Proteins": "2,1 г",
+        "Fats": "1,7 г",
+        "Carbohydrates": "7,2 г"
+    },
+    {
+        "Title": "—уп молочный с тыквой и манной крупой, по 1-178",
+        "Calories": "50 к ал",
+        "Proteins": "2 г",
+        "Fats": "2,2 г",
+        "Carbohydrates": "5,4 г"
+    },
+    {
+        "Title": "—уп овощной на отваре шиповника",
+        "Calories": "67,8 к ал",
+        "Proteins": "2,3 г",
+        "Fats": "3,2 г",
+        "Carbohydrates": "7,9 г"
+    },
+    {
+        "Title": "—уп перловый с грибами по 1-164",
+        "Calories": "43 к ал",
+        "Proteins": "1,6 г",
+        "Fats": "1,2 г",
+        "Carbohydrates": "6,4 г"
+    },
+    {
+        "Title": "—уп пикантный с креветками",
+        "Calories": "81,9 к ал",
+        "Proteins": "9 г",
+        "Fats": "2,7 г",
+        "Carbohydrates": "5,7 г"
+    },
+    {
+        "Title": "—уп полевой",
+        "Calories": "93,5 к ал",
+        "Proteins": "1,5 г",
+        "Fats": "5,9 г",
+        "Carbohydrates": "9,2 г"
+    },
+    {
+        "Title": "—уп пшенный с м€сом по 1-160",
+        "Calories": "57 к ал",
+        "Proteins": "2,9 г",
+        "Fats": "2,2 г",
+        "Carbohydrates": "6,4 г"
+    },
+    {
+        "Title": "—уп рисовый по 1-158",
+        "Calories": "38 к ал",
+        "Proteins": "0,9 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "6,2 г"
+    },
+    {
+        "Title": "—уп с бобовыми (фасоль) по 1-162",
+        "Calories": "54 к ал",
+        "Proteins": "3 г",
+        "Fats": "1,3 г",
+        "Carbohydrates": "6,9 г"
+    },
+    {
+        "Title": "—уп с крупой",
+        "Calories": "41,5 к ал",
+        "Proteins": "0,7 г",
+        "Fats": "1,9 г",
+        "Carbohydrates": "5,7 г"
+    },
+    {
+        "Title": "—уп с макаронными издели€ми",
+        "Calories": "39 к ал",
+        "Proteins": "0,9 г",
+        "Fats": "2 г",
+        "Carbohydrates": "4,5 г"
+    },
+    {
+        "Title": "—уп с перловой крупой",
+        "Calories": "0 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "—уп с рыбными вареничками",
+        "Calories": "64,3 к ал",
+        "Proteins": "5,2 г",
+        "Fats": "2,6 г",
+        "Carbohydrates": "5,3 г"
+    },
+    {
+        "Title": "—уп с рыбными фрикадельками",
+        "Calories": "28,8 к ал",
+        "Proteins": "3,7 г",
+        "Fats": "0,6 г",
+        "Carbohydrates": "2,3 г"
+    },
+    {
+        "Title": "—уп с фрикадельками",
+        "Calories": "24 к ал",
+        "Proteins": "1,7 г",
+        "Fats": "0,9 г",
+        "Carbohydrates": "2,3 г"
+    },
+    {
+        "Title": "—уп со шпинатом и грибами",
+        "Calories": "76,8 к ал",
+        "Proteins": "1,8 г",
+        "Fats": "7,6 г",
+        "Carbohydrates": "0,5 г"
+    },
+    {
+        "Title": "—уп фасолевый",
+        "Calories": "66,3 к ал",
+        "Proteins": "1,7 г",
+        "Fats": "4,8 г",
+        "Carbohydrates": "4,2 г"
+    },
+    {
+        "Title": "—уп харчо с м€сом по 1-164",
+        "Calories": "75 к ал",
+        "Proteins": "3,1 г",
+        "Fats": "4,5 г",
+        "Carbohydrates": "5,5 г"
+    },
+    {
+        "Title": "—уп холодный \"“аратор\"",
+        "Calories": "146,1 к ал",
+        "Proteins": "3,9 г",
+        "Fats": "10 г",
+        "Carbohydrates": "10,7 г"
+    },
+    {
+        "Title": "—уп-крем из тыквы",
+        "Calories": "92,5 к ал",
+        "Proteins": "3,4 г",
+        "Fats": "4,6 г",
+        "Carbohydrates": "10 г"
+    },
+    {
+        "Title": "—уп-лапша домашн€€",
+        "Calories": "47,8 к ал",
+        "Proteins": "1,2 г",
+        "Fats": "2,4 г",
+        "Carbohydrates": "5,9 г"
+    },
+    {
+        "Title": "—уп-лапша с помидорами по-казачьи",
+        "Calories": "67,4 к ал",
+        "Proteins": "4 г",
+        "Fats": "4,1 г",
+        "Carbohydrates": "4 г"
+    },
+    {
+        "Title": "—уп-пюре из зеленого горошка",
+        "Calories": "82,7 к ал",
+        "Proteins": "4 г",
+        "Fats": "3 г",
+        "Carbohydrates": "10,5 г"
+    },
+    {
+        "Title": "—уп-пюре из кабачков или тыквы",
+        "Calories": "47 к ал",
+        "Proteins": "1,3 г",
+        "Fats": "2,8 г",
+        "Carbohydrates": "4,5 г"
+    },
+    {
+        "Title": "—уп-пюре из картофел€ и моркови",
+        "Calories": "37,7 к ал",
+        "Proteins": "0,6 г",
+        "Fats": "2,9 г",
+        "Carbohydrates": "2,4 г"
+    },
+    {
+        "Title": "—уп-пюре из картофел€ по 1-180",
+        "Calories": "58 к ал",
+        "Proteins": "1,6 г",
+        "Fats": "2 г",
+        "Carbohydrates": "8,3 г"
+    },
+    {
+        "Title": "—уп-пюре из моркови по 1-182",
+        "Calories": "39 к ал",
+        "Proteins": "1,2 г",
+        "Fats": "1,8 г",
+        "Carbohydrates": "4,5 г"
+    },
+    {
+        "Title": "—уп-пюре из печени",
+        "Calories": "67,9 к ал",
+        "Proteins": "3,7 г",
+        "Fats": "4,1 г",
+        "Carbohydrates": "4,3 г"
+    },
+    {
+        "Title": "—уп-пюре из птицы",
+        "Calories": "93,1 к ал",
+        "Proteins": "4,8 г",
+        "Fats": "6,8 г",
+        "Carbohydrates": "3,5 г"
+    },
+    {
+        "Title": "—уп-пюре из разных овощей",
+        "Calories": "60,3 к ал",
+        "Proteins": "2,3 г",
+        "Fats": "2,8 г",
+        "Carbohydrates": "7 г"
+    },
+    {
+        "Title": "—уп-пюре из рисовой крупы по 1-186",
+        "Calories": "48 к ал",
+        "Proteins": "1,4 г",
+        "Fats": "1,3 г",
+        "Carbohydrates": "7,7 г"
+    },
+    {
+        "Title": "—уп-пюре из свежих помидоров",
+        "Calories": "40,5 к ал",
+        "Proteins": "1,8 г",
+        "Fats": "3,1 г",
+        "Carbohydrates": "1,4 г"
+    },
+    {
+        "Title": "—уп-пюре из черники",
+        "Calories": "33,5 к ал",
+        "Proteins": "0,3 г",
+        "Fats": "1,3 г",
+        "Carbohydrates": "5,5 г"
+    },
+    {
+        "Title": "—уп-пюре из шпината по 1-184",
+        "Calories": "42 к ал",
+        "Proteins": "1,9 г",
+        "Fats": "2 г",
+        "Carbohydrates": "4 г"
+    },
+    {
+        "Title": "—уп-салат \"—адовый\"",
+        "Calories": "62,8 к ал",
+        "Proteins": "5,6 г",
+        "Fats": "2,8 г",
+        "Carbohydrates": "4 г"
+    },
+    {
+        "Title": "—уп-харчо",
+        "Calories": "43,9 к ал",
+        "Proteins": "2,2 г",
+        "Fats": "2,1 г",
+        "Carbohydrates": "4,3 г"
+    },
+    {
+        "Title": "—уп-харчо (грузинское национальное блюдо)",
+        "Calories": "87,9 к ал",
+        "Proteins": "4,8 г",
+        "Fats": "5,5 г",
+        "Carbohydrates": "5 г"
+    },
+    {
+        "Title": "—ырный суп",
+        "Calories": "93,4 к ал",
+        "Proteins": "4,7 г",
+        "Fats": "6,9 г",
+        "Carbohydrates": "3,2 г"
+    },
+    {
+        "Title": "”ха ладожска€ с кнел€ми и расстега€ми",
+        "Calories": "85,2 к ал",
+        "Proteins": "13,4 г",
+        "Fats": "2,5 г",
+        "Carbohydrates": "2,5 г"
+    },
+    {
+        "Title": "”ха ростовска€",
+        "Calories": "70,1 к ал",
+        "Proteins": "8,5 г",
+        "Fats": "2,2 г",
+        "Carbohydrates": "4,4 г"
+    },
+    {
+        "Title": "”ха рыбацка€",
+        "Calories": "66,7 к ал",
+        "Proteins": "8,5 г",
+        "Fats": "1,9 г",
+        "Carbohydrates": "4,3 г"
+    },
+    {
+        "Title": "”ха с перловой крупой",
+        "Calories": "66,3 к ал",
+        "Proteins": "9,3 г",
+        "Fats": "1 г",
+        "Carbohydrates": "5,4 г"
+    },
+    {
+        "Title": "”ха с расстега€ми",
+        "Calories": "85,3 к ал",
+        "Proteins": "10,4 г",
+        "Fats": "2,9 г",
+        "Carbohydrates": "4,7 г"
+    },
+    {
+        "Title": "‘асолевый суп",
+        "Calories": "48,1 к ал",
+        "Proteins": "2,3 г",
+        "Fats": "1,6 г",
+        "Carbohydrates": "6,6 г"
+    },
+    {
+        "Title": "’арчо",
+        "Calories": "114,9 к ал",
+        "Proteins": "8 г",
+        "Fats": "3,6 г",
+        "Carbohydrates": "13,6 г"
+    },
+    {
+        "Title": "’ирмаса (суп из субпродуктов с лапшой домашней - бур€тское национальное блюдо)",
+        "Calories": "85,6 к ал",
+        "Proteins": "4,3 г",
+        "Fats": "5,5 г",
+        "Carbohydrates": "5 г"
+    },
+    {
+        "Title": "’олодный борщ с редькой",
+        "Calories": "32,3 к ал",
+        "Proteins": "0,9 г",
+        "Fats": "2 г",
+        "Carbohydrates": "2,9 г"
+    },
+    {
+        "Title": "ўи бо€рские",
+        "Calories": "48,3 к ал",
+        "Proteins": "3,5 г",
+        "Fats": "2,6 г",
+        "Carbohydrates": "2,9 г"
+    },
+    {
+        "Title": "ўи зеленые с €йцом",
+        "Calories": "44,9 к ал",
+        "Proteins": "1,9 г",
+        "Fats": "3,2 г",
+        "Carbohydrates": "2,2 г"
+    },
+    {
+        "Title": "ўи из квашеной капусты",
+        "Calories": "37,2 к ал",
+        "Proteins": "2 г",
+        "Fats": "2,8 г",
+        "Carbohydrates": "1 г"
+    },
+    {
+        "Title": "ўи из квашеной капусты",
+        "Calories": "28,7 к ал",
+        "Proteins": "0,8 г",
+        "Fats": "1,7 г",
+        "Carbohydrates": "2,6 г"
+    },
+    {
+        "Title": "ўи из квашеной капусты по 1-132",
+        "Calories": "19 к ал",
+        "Proteins": "0,8 г",
+        "Fats": "1 г",
+        "Carbohydrates": "1,5 г"
+    },
+    {
+        "Title": "ўи из клевера и щавел€",
+        "Calories": "116,3 к ал",
+        "Proteins": "3,3 г",
+        "Fats": "8,9 г",
+        "Carbohydrates": "6,1 г"
+    },
+    {
+        "Title": "ўи из свежей белокочанной капусты",
+        "Calories": "17,1 к ал",
+        "Proteins": "0,5 г",
+        "Fats": "0,8 г",
+        "Carbohydrates": "2,2 г"
+    },
+    {
+        "Title": "ўи из свежей капусты",
+        "Calories": "33,3 к ал",
+        "Proteins": "1 г",
+        "Fats": "1,9 г",
+        "Carbohydrates": "3,4 г"
+    },
+    {
+        "Title": "ўи из свежей капусты по 1-130",
+        "Calories": "24 к ал",
+        "Proteins": "0,9 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "2,5 г"
+    },
+    {
+        "Title": "ўи из свежей капусты с картофелем",
+        "Calories": "41,6 к ал",
+        "Proteins": "1,1 г",
+        "Fats": "2,1 г",
+        "Carbohydrates": "4,9 г"
+    },
+    {
+        "Title": "ўи из щавел€",
+        "Calories": "45,3 к ал",
+        "Proteins": "2,1 г",
+        "Fats": "3,1 г",
+        "Carbohydrates": "2,4 г"
+    },
+    {
+        "Title": "ўи из щавел€ по 1-132",
+        "Calories": "48 к ал",
+        "Proteins": "2,3 г",
+        "Fats": "3,5 г",
+        "Carbohydrates": "1,8 г"
+    },
+    {
+        "Title": "ўи по-уральски (с крупой)",
+        "Calories": "31,5 к ал",
+        "Proteins": "0,8 г",
+        "Fats": "1,8 г",
+        "Carbohydrates": "3,2 г"
+    },
+    {
+        "Title": "ўи с €чневой крупой",
+        "Calories": "47,6 к ал",
+        "Proteins": "2,3 г",
+        "Fats": "3,6 г",
+        "Carbohydrates": "1,6 г"
+    },
+    {
+        "Title": "ўи суточные",
+        "Calories": "46,3 к ал",
+        "Proteins": "1,7 г",
+        "Fats": "3,2 г",
+        "Carbohydrates": "2,8 г"
+    },
+    {
+        "Title": "ўи суточные по 1-134",
+        "Calories": "19 к ал",
+        "Proteins": "0,9 г",
+        "Fats": "1 г",
+        "Carbohydrates": "1,5 г"
+    },
+    {
+        "Title": "ўи томленые с гречневыми блинами",
+        "Calories": "56,8 к ал",
+        "Proteins": "3,5 г",
+        "Fats": "3,7 г",
+        "Carbohydrates": "2,6 г"
+    },
+    {
+        "Title": "ёшка картофельна€ с кабачками и помидорами",
+        "Calories": "74,6 к ал",
+        "Proteins": "3,5 г",
+        "Fats": "4,3 г",
+        "Carbohydrates": "6 г"
+    },
+    {
+        "Title": "яблочный суп со сметаной",
+        "Calories": "50,5 к ал",
+        "Proteins": "0,8 г",
+        "Fats": "3,2 г",
+        "Carbohydrates": "4,9 г"
+    }
+][
+    {
+        "Title": "Ѕорщ",
+        "Calories": "57,7 к ал",
+        "Proteins": "3,8 г",
+        "Fats": "2,9 г",
+        "Carbohydrates": "4,3 г"
+    },
+    {
+        "Title": "Ѕорщ из свежей капусты и картофел€ по 1-110",
+        "Calories": "36 к ал",
+        "Proteins": "1 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "5,4 г"
+    },
+    {
+        "Title": "Ѕорщ кубанский с кабачками",
+        "Calories": "88,2 к ал",
+        "Proteins": "4,9 г",
+        "Fats": "5,7 г",
+        "Carbohydrates": "4,7 г"
+    },
+    {
+        "Title": "Ѕорщ летний (с ботвой свеклы)",
+        "Calories": "69 к ал",
+        "Proteins": "3,9 г",
+        "Fats": "3,2 г",
+        "Carbohydrates": "6,6 г"
+    },
+    {
+        "Title": "Ѕорщ летний по 1-122",
+        "Calories": "38 к ал",
+        "Proteins": "1,1 г",
+        "Fats": "1,2 г",
+        "Carbohydrates": "5,7 г"
+    },
+    {
+        "Title": "Ѕорщ московский",
+        "Calories": "115,5 к ал",
+        "Proteins": "8,3 г",
+        "Fats": "7,2 г",
+        "Carbohydrates": "4,6 г"
+    },
+    {
+        "Title": "Ѕорщ по 1-110",
+        "Calories": "29 к ал",
+        "Proteins": "0,8 г",
+        "Fats": "1 г",
+        "Carbohydrates": "4,1 г"
+    },
+    {
+        "Title": "Ѕорщ по-вегетариански",
+        "Calories": "34,7 к ал",
+        "Proteins": "0,5 г",
+        "Fats": "2,7 г",
+        "Carbohydrates": "2,2 г"
+    },
+    {
+        "Title": "Ѕорщ с капустой и картофелем",
+        "Calories": "61,6 к ал",
+        "Proteins": "3,8 г",
+        "Fats": "2,9 г",
+        "Carbohydrates": "5,4 г"
+    },
+    {
+        "Title": "Ѕорщ с картофелем по 1-112",
+        "Calories": "42 к ал",
+        "Proteins": "1,1 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "6,8 г"
+    },
+    {
+        "Title": "Ѕорщ с черносливом и грибами",
+        "Calories": "74 к ал",
+        "Proteins": "4,6 г",
+        "Fats": "3,1 г",
+        "Carbohydrates": "7,4 г"
+    },
+    {
+        "Title": "Ѕорщ сибирский",
+        "Calories": "76,7 к ал",
+        "Proteins": "5,4 г",
+        "Fats": "3,4 г",
+        "Carbohydrates": "6,5 г"
+    },
+    {
+        "Title": "Ѕорщ украинский",
+        "Calories": "90,2 к ал",
+        "Proteins": "4,4 г",
+        "Fats": "4,4 г",
+        "Carbohydrates": "8,7 г"
+    },
+    {
+        "Title": "Ѕорщ украинский по 1-122",
+        "Calories": "50 к ал",
+        "Proteins": "1,1 г",
+        "Fats": "2,2 г",
+        "Carbohydrates": "6,5 г"
+    },
+    {
+        "Title": "Ѕорщ холодный",
+        "Calories": "27,1 к ал",
+        "Proteins": "1,1 г",
+        "Fats": "1,3 г",
+        "Carbohydrates": "3 г"
+    },
+    {
+        "Title": "Ѕорщ холодный",
+        "Calories": "45,7 к ал",
+        "Proteins": "1,5 г",
+        "Fats": "3,2 г",
+        "Carbohydrates": "3 г"
+    },
+    {
+        "Title": "√ов€жий суп",
+        "Calories": "28,8 к ал",
+        "Proteins": "2,3 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "2,6 г"
+    },
+    {
+        "Title": "√олландский зеленый суп",
+        "Calories": "65,3 к ал",
+        "Proteins": "4,8 г",
+        "Fats": "1,4 г",
+        "Carbohydrates": "8,8 г"
+    },
+    {
+        "Title": "√олландский зеленый суп",
+        "Calories": "0 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "√ороховый суп",
+        "Calories": "54,3 к ал",
+        "Proteins": "2,2 г",
+        "Fats": "3 г",
+        "Carbohydrates": "5 г"
+    },
+    {
+        "Title": "√рибной борщ",
+        "Calories": "27,1 к ал",
+        "Proteins": "0,7 г",
+        "Fats": "2,1 г",
+        "Carbohydrates": "1,4 г"
+    },
+    {
+        "Title": "√рибной суп",
+        "Calories": "50,9 к ал",
+        "Proteins": "0,8 г",
+        "Fats": "3,4 г",
+        "Carbohydrates": "4,6 г"
+    },
+    {
+        "Title": " уриный суп по-индийски",
+        "Calories": "0 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": " уриный суп с макаронами",
+        "Calories": "59,7 к ал",
+        "Proteins": "4,5 г",
+        "Fats": "3,3 г",
+        "Carbohydrates": "3,1 г"
+    },
+    {
+        "Title": "Ћитовский холодный борщ",
+        "Calories": "63,8 к ал",
+        "Proteins": "2,9 г",
+        "Fats": "2,2 г",
+        "Carbohydrates": "8,6 г"
+    },
+    {
+        "Title": "Ћэпсытепх (бульон с жареными орешками из муки и зажаркой - адыгейское национальное блюдо)",
+        "Calories": "167,1 к ал",
+        "Proteins": "11,4 г",
+        "Fats": "10,3 г",
+        "Carbohydrates": "7,6 г"
+    },
+    {
+        "Title": "ћолочный суп с морковью",
+        "Calories": "33,6 к ал",
+        "Proteins": "1,6 г",
+        "Fats": "1,5 г",
+        "Carbohydrates": "3,7 г"
+    },
+    {
+        "Title": "ќкрошка м€сна€ на кефире с гов€диной, по 1-194",
+        "Calories": "39 к ал",
+        "Proteins": "2,8 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "4,3 г"
+    },
+    {
+        "Title": "ќкрошка м€сна€ со сметаной и гов€диной,  по 1-192",
+        "Calories": "52 к ал",
+        "Proteins": "2,1 г",
+        "Fats": "1,7 г",
+        "Carbohydrates": "6,3 г"
+    },
+    {
+        "Title": "ќкрошка овощна€ по 1-192",
+        "Calories": "39 к ал",
+        "Proteins": "0,9 г",
+        "Fats": "0,8 г",
+        "Carbohydrates": "6,8 г"
+    },
+    {
+        "Title": "ѕохлебка грибна€ (карельское национальное блюдо)",
+        "Calories": "81,6 к ал",
+        "Proteins": "3,1 г",
+        "Fats": "4,1 г",
+        "Carbohydrates": "8,5 г"
+    },
+    {
+        "Title": "ѕохлебка из сардин в горшочке",
+        "Calories": "115,8 к ал",
+        "Proteins": "6,4 г",
+        "Fats": "6,9 г",
+        "Carbohydrates": "7,5 г"
+    },
+    {
+        "Title": "ѕохлебка по-суворовски",
+        "Calories": "70,4 к ал",
+        "Proteins": "8,7 г",
+        "Fats": "2,4 г",
+        "Carbohydrates": "3,8 г"
+    },
+    {
+        "Title": "ѕохлебка рыбна€ по-сибирски",
+        "Calories": "57,8 к ал",
+        "Proteins": "4,8 г",
+        "Fats": "1,5 г",
+        "Carbohydrates": "6,7 г"
+    },
+    {
+        "Title": "ѕохлебка старомосковска€",
+        "Calories": "94,1 к ал",
+        "Proteins": "3,6 г",
+        "Fats": "7,1 г",
+        "Carbohydrates": "4,2 г"
+    },
+    {
+        "Title": "–ассольник",
+        "Calories": "40,4 к ал",
+        "Proteins": "0,9 г",
+        "Fats": "1,6 г",
+        "Carbohydrates": "5,9 г"
+    },
+    {
+        "Title": "–ассольник",
+        "Calories": "0 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "–ассольник домашний",
+        "Calories": "38,4 к ал",
+        "Proteins": "0,9 г",
+        "Fats": "1,6 г",
+        "Carbohydrates": "5,4 г"
+    },
+    {
+        "Title": "–ассольник домашний по 1-136",
+        "Calories": "36 к ал",
+        "Proteins": "1 г",
+        "Fats": "1 г",
+        "Carbohydrates": "5,8 г"
+    },
+    {
+        "Title": "–ассольник ленинградский",
+        "Calories": "53,3 к ал",
+        "Proteins": "1,3 г",
+        "Fats": "1,7 г",
+        "Carbohydrates": "8,8 г"
+    },
+    {
+        "Title": "–ассольник по-кубански",
+        "Calories": "100,8 к ал",
+        "Proteins": "4,9 г",
+        "Fats": "5,7 г",
+        "Carbohydrates": "7,9 г"
+    },
+    {
+        "Title": "–исовый грибной суп",
+        "Calories": "62,7 к ал",
+        "Proteins": "2 г",
+        "Fats": "2,2 г",
+        "Carbohydrates": "9,3 г"
+    },
+    {
+        "Title": "—векольник холодный",
+        "Calories": "62,6 к ал",
+        "Proteins": "1,8 г",
+        "Fats": "3,6 г",
+        "Carbohydrates": "6,2 г"
+    },
+    {
+        "Title": "—векольник холодный по 1-198",
+        "Calories": "30 к ал",
+        "Proteins": "0,8 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "6,1 г"
+    },
+    {
+        "Title": "—ладкий суп из черники с клецками",
+        "Calories": "75,8 к ал",
+        "Proteins": "1,4 г",
+        "Fats": "1,3 г",
+        "Carbohydrates": "15,6 г"
+    },
+    {
+        "Title": "—ол€нка грибна€ по 1-172",
+        "Calories": "18 к ал",
+        "Proteins": "0,5 г",
+        "Fats": "1,2 г",
+        "Carbohydrates": "1,3 г"
+    },
+    {
+        "Title": "—ол€нка рыбна€, по 1-170",
+        "Calories": "25 к ал",
+        "Proteins": "2,4 г",
+        "Fats": "1,2 г",
+        "Carbohydrates": "1,2 г"
+    },
+    {
+        "Title": "—ол€нка сборна€ м€сна€, по 1-168",
+        "Calories": "39 к ал",
+        "Proteins": "2,1 г",
+        "Fats": "2,8 г",
+        "Carbohydrates": "1,3 г"
+    },
+    {
+        "Title": "—уп \"≈реванский\"",
+        "Calories": "54,1 к ал",
+        "Proteins": "3,1 г",
+        "Fats": "1,9 г",
+        "Carbohydrates": "6,5 г"
+    },
+    {
+        "Title": "—уп \"’инкал\" (суп с м€сом и ракушками - дагестанское национальное блюдо)",
+        "Calories": "125,1 к ал",
+        "Proteins": "10,2 г",
+        "Fats": "6,1 г",
+        "Carbohydrates": "7,8 г"
+    },
+    {
+        "Title": "—уп вишневый с клецками",
+        "Calories": "79,3 к ал",
+        "Proteins": "2 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "16,4 г"
+    },
+    {
+        "Title": "—уп гороховый с €блоками",
+        "Calories": "44 к ал",
+        "Proteins": "2,5 г",
+        "Fats": "2,3 г",
+        "Carbohydrates": "3,6 г"
+    },
+    {
+        "Title": "—уп грибной картофельный",
+        "Calories": "45,5 к ал",
+        "Proteins": "0,8 г",
+        "Fats": "3,7 г",
+        "Carbohydrates": "2,6 г"
+    },
+    {
+        "Title": "—уп грибной с пирожками",
+        "Calories": "60,3 к ал",
+        "Proteins": "1,3 г",
+        "Fats": "5,2 г",
+        "Carbohydrates": "2,2 г"
+    },
+    {
+        "Title": "—уп из белых грибов с макаронами",
+        "Calories": "58,1 к ал",
+        "Proteins": "1,4 г",
+        "Fats": "4,7 г",
+        "Carbohydrates": "2,8 г"
+    },
+    {
+        "Title": "—уп из гов€дины",
+        "Calories": "41,9 к ал",
+        "Proteins": "2,4 г",
+        "Fats": "2,5 г",
+        "Carbohydrates": "2,6 г"
+    },
+    {
+        "Title": "—уп из клюквы и €блок",
+        "Calories": "51 к ал",
+        "Proteins": "0,4 г",
+        "Fats": "1,9 г",
+        "Carbohydrates": "8,7 г"
+    },
+    {
+        "Title": "—уп из моркови и кефира",
+        "Calories": "58 к ал",
+        "Proteins": "2,3 г",
+        "Fats": "2,1 г",
+        "Carbohydrates": "8 г"
+    },
+    {
+        "Title": "—уп из овощей",
+        "Calories": "36,7 к ал",
+        "Proteins": "1,7 г",
+        "Fats": "1,6 г",
+        "Carbohydrates": "4,2 г"
+    },
+    {
+        "Title": "—уп из овс€ной крупы с €блоками",
+        "Calories": "62,4 к ал",
+        "Proteins": "1,7 г",
+        "Fats": "1,4 г",
+        "Carbohydrates": "11,5 г"
+    },
+    {
+        "Title": "—уп из овс€ных хлопьев с €блоками",
+        "Calories": "48,1 к ал",
+        "Proteins": "1,7 г",
+        "Fats": "1,5 г",
+        "Carbohydrates": "7,4 г"
+    },
+    {
+        "Title": "—уп из плодов свежих",
+        "Calories": "63,2 к ал",
+        "Proteins": "0,2 г",
+        "Fats": "0,2 г",
+        "Carbohydrates": "16,2 г"
+    },
+    {
+        "Title": "—уп из свежих помидоров",
+        "Calories": "37,4 к ал",
+        "Proteins": "0,9 г",
+        "Fats": "2,1 г",
+        "Carbohydrates": "4 г"
+    },
+    {
+        "Title": "—уп из свежих фруктов по 1-200",
+        "Calories": "50 к ал",
+        "Proteins": "0,1 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "11,9 г"
+    },
+    {
+        "Title": "—уп из свекольной ботвы и щавел€",
+        "Calories": "46,6 к ал",
+        "Proteins": "1,7 г",
+        "Fats": "3,8 г",
+        "Carbohydrates": "1,6 г"
+    },
+    {
+        "Title": "—уп из смеси сухофруктов",
+        "Calories": "80,5 к ал",
+        "Proteins": "0,5 г",
+        "Fats": "0 г",
+        "Carbohydrates": "20,9 г"
+    },
+    {
+        "Title": "—уп из спаржи",
+        "Calories": "78 к ал",
+        "Proteins": "2,6 г",
+        "Fats": "4,8 г",
+        "Carbohydrates": "6,6 г"
+    },
+    {
+        "Title": "—уп из утки",
+        "Calories": "283 к ал",
+        "Proteins": "10,9 г",
+        "Fats": "23 г",
+        "Carbohydrates": "8,6 г"
+    },
+    {
+        "Title": "—уп из фасоли с орехами",
+        "Calories": "67 к ал",
+        "Proteins": "2,3 г",
+        "Fats": "4,8 г",
+        "Carbohydrates": "3,8 г"
+    },
+    {
+        "Title": "—уп из цветной капусты",
+        "Calories": "36,8 к ал",
+        "Proteins": "1 г",
+        "Fats": "3,2 г",
+        "Carbohydrates": "1,1 г"
+    },
+    {
+        "Title": "—уп из черники с клецками",
+        "Calories": "105,4 к ал",
+        "Proteins": "4,6 г",
+        "Fats": "2,3 г",
+        "Carbohydrates": "17,6 г"
+    },
+    {
+        "Title": "—уп из черники с макаронами",
+        "Calories": "34,2 к ал",
+        "Proteins": "0,5 г",
+        "Fats": "0,8 г",
+        "Carbohydrates": "6,6 г"
+    },
+    {
+        "Title": "—уп из чечевицы",
+        "Calories": "67,8 к ал",
+        "Proteins": "2,5 г",
+        "Fats": "4,2 г",
+        "Carbohydrates": "5,2 г"
+    },
+    {
+        "Title": "—уп картофельный",
+        "Calories": "50,6 к ал",
+        "Proteins": "1,3 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "9,4 г"
+    },
+    {
+        "Title": "—уп картофельный по 1-142",
+        "Calories": "45 к ал",
+        "Proteins": "1,1 г",
+        "Fats": "1,2 г",
+        "Carbohydrates": "7,8 г"
+    },
+    {
+        "Title": "—уп картофельный с бобовыми",
+        "Calories": "73,3 к ал",
+        "Proteins": "2,7 г",
+        "Fats": "2,4 г",
+        "Carbohydrates": "10,8 г"
+    },
+    {
+        "Title": "—уп картофельный с грибами",
+        "Calories": "42,2 к ал",
+        "Proteins": "1,7 г",
+        "Fats": "1,2 г",
+        "Carbohydrates": "6,5 г"
+    },
+    {
+        "Title": "—уп картофельный с кальмарами",
+        "Calories": "62,4 к ал",
+        "Proteins": "4 г",
+        "Fats": "2,4 г",
+        "Carbohydrates": "6,5 г"
+    },
+    {
+        "Title": "—уп картофельный с крупой",
+        "Calories": "53,6 к ал",
+        "Proteins": "1,3 г",
+        "Fats": "1,2 г",
+        "Carbohydrates": "10 г"
+    },
+    {
+        "Title": "—уп картофельный с макаронными издели€ми",
+        "Calories": "47,7 к ал",
+        "Proteins": "1,3 г",
+        "Fats": "1 г",
+        "Carbohydrates": "8,8 г"
+    },
+    {
+        "Title": "—уп картофельный с м€сными фрикадельками",
+        "Calories": "57,6 к ал",
+        "Proteins": "3,3 г",
+        "Fats": "2,2 г",
+        "Carbohydrates": "6,5 г"
+    },
+    {
+        "Title": "—уп картофельный с перловой крупой по 1-146",
+        "Calories": "37 к ал",
+        "Proteins": "1 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "6,5 г"
+    },
+    {
+        "Title": "—уп картофельный с рыбными фрикадельками",
+        "Calories": "48,9 к ал",
+        "Proteins": "2,5 г",
+        "Fats": "1,6 г",
+        "Carbohydrates": "6,6 г"
+    },
+    {
+        "Title": "—уп картофельный со сладким перцем",
+        "Calories": "55,9 к ал",
+        "Proteins": "0,9 г",
+        "Fats": "3,7 г",
+        "Carbohydrates": "4,9 г"
+    },
+    {
+        "Title": "—уп лапша грибна€",
+        "Calories": "41,3 к ал",
+        "Proteins": "1,6 г",
+        "Fats": "2,1 г",
+        "Carbohydrates": "4,1 г"
+    },
+    {
+        "Title": "—уп молочный рисовый",
+        "Calories": "99,2 к ал",
+        "Proteins": "3,1 г",
+        "Fats": "5 г",
+        "Carbohydrates": "11,1 г"
+    },
+    {
+        "Title": "—уп молочный с белокочанной капустой, по 1-180",
+        "Calories": "54 к ал",
+        "Proteins": "2 г",
+        "Fats": "2 г",
+        "Carbohydrates": "6,8 г"
+    },
+    {
+        "Title": "—уп молочный с грибами",
+        "Calories": "67,2 к ал",
+        "Proteins": "2,5 г",
+        "Fats": "3,3 г",
+        "Carbohydrates": "7,3 г"
+    },
+    {
+        "Title": "—уп молочный с картофельными \"стружками\"",
+        "Calories": "51,3 к ал",
+        "Proteins": "1,4 г",
+        "Fats": "3,6 г",
+        "Carbohydrates": "3,5 г"
+    },
+    {
+        "Title": "—уп молочный с клецками",
+        "Calories": "110,9 к ал",
+        "Proteins": "3,8 г",
+        "Fats": "5,2 г",
+        "Carbohydrates": "13 г"
+    },
+    {
+        "Title": "—уп молочный с крупой",
+        "Calories": "68,2 к ал",
+        "Proteins": "2,6 г",
+        "Fats": "2,8 г",
+        "Carbohydrates": "8,7 г"
+    },
+    {
+        "Title": "—уп молочный с макаронами, по 1-172",
+        "Calories": "58 к ал",
+        "Proteins": "2,2 г",
+        "Fats": "1,9 г",
+        "Carbohydrates": "7,9 г"
+    },
+    {
+        "Title": "—уп молочный с макаронными издели€ми",
+        "Calories": "64,6 к ал",
+        "Proteins": "2,8 г",
+        "Fats": "2,7 г",
+        "Carbohydrates": "7,7 г"
+    },
+    {
+        "Title": "—уп молочный с овощами",
+        "Calories": "84,9 к ал",
+        "Proteins": "4,5 г",
+        "Fats": "2,8 г",
+        "Carbohydrates": "11,2 г"
+    },
+    {
+        "Title": "—уп молочный с рисом",
+        "Calories": "61,9 к ал",
+        "Proteins": "2,2 г",
+        "Fats": "2,8 г",
+        "Carbohydrates": "7,5 г"
+    },
+    {
+        "Title": "—уп молочный с рисом",
+        "Calories": "81 к ал",
+        "Proteins": "2,1 г",
+        "Fats": "3,9 г",
+        "Carbohydrates": "10 г"
+    },
+    {
+        "Title": "—уп молочный с рисом, по 1-174",
+        "Calories": "54 к ал",
+        "Proteins": "1,8 г",
+        "Fats": "1,9 г",
+        "Carbohydrates": "7,3 г"
+    },
+    {
+        "Title": "—уп молочный с тыквой",
+        "Calories": "50,9 к ал",
+        "Proteins": "2,1 г",
+        "Fats": "1,7 г",
+        "Carbohydrates": "7,2 г"
+    },
+    {
+        "Title": "—уп молочный с тыквой и манной крупой, по 1-178",
+        "Calories": "50 к ал",
+        "Proteins": "2 г",
+        "Fats": "2,2 г",
+        "Carbohydrates": "5,4 г"
+    },
+    {
+        "Title": "—уп овощной на отваре шиповника",
+        "Calories": "67,8 к ал",
+        "Proteins": "2,3 г",
+        "Fats": "3,2 г",
+        "Carbohydrates": "7,9 г"
+    },
+    {
+        "Title": "—уп перловый с грибами по 1-164",
+        "Calories": "43 к ал",
+        "Proteins": "1,6 г",
+        "Fats": "1,2 г",
+        "Carbohydrates": "6,4 г"
+    },
+    {
+        "Title": "—уп пикантный с креветками",
+        "Calories": "81,9 к ал",
+        "Proteins": "9 г",
+        "Fats": "2,7 г",
+        "Carbohydrates": "5,7 г"
+    },
+    {
+        "Title": "—уп полевой",
+        "Calories": "93,5 к ал",
+        "Proteins": "1,5 г",
+        "Fats": "5,9 г",
+        "Carbohydrates": "9,2 г"
+    },
+    {
+        "Title": "—уп пшенный с м€сом по 1-160",
+        "Calories": "57 к ал",
+        "Proteins": "2,9 г",
+        "Fats": "2,2 г",
+        "Carbohydrates": "6,4 г"
+    },
+    {
+        "Title": "—уп рисовый по 1-158",
+        "Calories": "38 к ал",
+        "Proteins": "0,9 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "6,2 г"
+    },
+    {
+        "Title": "—уп с бобовыми (фасоль) по 1-162",
+        "Calories": "54 к ал",
+        "Proteins": "3 г",
+        "Fats": "1,3 г",
+        "Carbohydrates": "6,9 г"
+    },
+    {
+        "Title": "—уп с крупой",
+        "Calories": "41,5 к ал",
+        "Proteins": "0,7 г",
+        "Fats": "1,9 г",
+        "Carbohydrates": "5,7 г"
+    },
+    {
+        "Title": "—уп с макаронными издели€ми",
+        "Calories": "39 к ал",
+        "Proteins": "0,9 г",
+        "Fats": "2 г",
+        "Carbohydrates": "4,5 г"
+    },
+    {
+        "Title": "—уп с перловой крупой",
+        "Calories": "0 к ал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "—уп с рыбными вареничками",
+        "Calories": "64,3 к ал",
+        "Proteins": "5,2 г",
+        "Fats": "2,6 г",
+        "Carbohydrates": "5,3 г"
+    },
+    {
+        "Title": "—уп с рыбными фрикадельками",
+        "Calories": "28,8 к ал",
+        "Proteins": "3,7 г",
+        "Fats": "0,6 г",
+        "Carbohydrates": "2,3 г"
+    },
+    {
+        "Title": "—уп с фрикадельками",
+        "Calories": "24 к ал",
+        "Proteins": "1,7 г",
+        "Fats": "0,9 г",
+        "Carbohydrates": "2,3 г"
+    },
+    {
+        "Title": "—уп со шпинатом и грибами",
+        "Calories": "76,8 к ал",
+        "Proteins": "1,8 г",
+        "Fats": "7,6 г",
+        "Carbohydrates": "0,5 г"
+    },
+    {
+        "Title": "—уп фасолевый",
+        "Calories": "66,3 к ал",
+        "Proteins": "1,7 г",
+        "Fats": "4,8 г",
+        "Carbohydrates": "4,2 г"
+    },
+    {
+        "Title": "—уп харчо с м€сом по 1-164",
+        "Calories": "75 к ал",
+        "Proteins": "3,1 г",
+        "Fats": "4,5 г",
+        "Carbohydrates": "5,5 г"
+    },
+    {
+        "Title": "—уп холодный \"“аратор\"",
+        "Calories": "146,1 к ал",
+        "Proteins": "3,9 г",
+        "Fats": "10 г",
+        "Carbohydrates": "10,7 г"
+    },
+    {
+        "Title": "—уп-крем из тыквы",
+        "Calories": "92,5 к ал",
+        "Proteins": "3,4 г",
+        "Fats": "4,6 г",
+        "Carbohydrates": "10 г"
+    },
+    {
+        "Title": "—уп-лапша домашн€€",
+        "Calories": "47,8 к ал",
+        "Proteins": "1,2 г",
+        "Fats": "2,4 г",
+        "Carbohydrates": "5,9 г"
+    },
+    {
+        "Title": "—уп-лапша с помидорами по-казачьи",
+        "Calories": "67,4 к ал",
+        "Proteins": "4 г",
+        "Fats": "4,1 г",
+        "Carbohydrates": "4 г"
+    },
+    {
+        "Title": "—уп-пюре из зеленого горошка",
+        "Calories": "82,7 к ал",
+        "Proteins": "4 г",
+        "Fats": "3 г",
+        "Carbohydrates": "10,5 г"
+    },
+    {
+        "Title": "—уп-пюре из кабачков или тыквы",
+        "Calories": "47 к ал",
+        "Proteins": "1,3 г",
+        "Fats": "2,8 г",
+        "Carbohydrates": "4,5 г"
+    },
+    {
+        "Title": "—уп-пюре из картофел€ и моркови",
+        "Calories": "37,7 к ал",
+        "Proteins": "0,6 г",
+        "Fats": "2,9 г",
+        "Carbohydrates": "2,4 г"
+    },
+    {
+        "Title": "—уп-пюре из картофел€ по 1-180",
+        "Calories": "58 к ал",
+        "Proteins": "1,6 г",
+        "Fats": "2 г",
+        "Carbohydrates": "8,3 г"
+    },
+    {
+        "Title": "—уп-пюре из моркови по 1-182",
+        "Calories": "39 к ал",
+        "Proteins": "1,2 г",
+        "Fats": "1,8 г",
+        "Carbohydrates": "4,5 г"
+    },
+    {
+        "Title": "—уп-пюре из печени",
+        "Calories": "67,9 к ал",
+        "Proteins": "3,7 г",
+        "Fats": "4,1 г",
+        "Carbohydrates": "4,3 г"
+    },
+    {
+        "Title": "—уп-пюре из птицы",
+        "Calories": "93,1 к ал",
+        "Proteins": "4,8 г",
+        "Fats": "6,8 г",
+        "Carbohydrates": "3,5 г"
+    },
+    {
+        "Title": "—уп-пюре из разных овощей",
+        "Calories": "60,3 к ал",
+        "Proteins": "2,3 г",
+        "Fats": "2,8 г",
+        "Carbohydrates": "7 г"
+    },
+    {
+        "Title": "—уп-пюре из рисовой крупы по 1-186",
+        "Calories": "48 к ал",
+        "Proteins": "1,4 г",
+        "Fats": "1,3 г",
+        "Carbohydrates": "7,7 г"
+    },
+    {
+        "Title": "—уп-пюре из свежих помидоров",
+        "Calories": "40,5 к ал",
+        "Proteins": "1,8 г",
+        "Fats": "3,1 г",
+        "Carbohydrates": "1,4 г"
+    },
+    {
+        "Title": "—уп-пюре из черники",
+        "Calories": "33,5 к ал",
+        "Proteins": "0,3 г",
+        "Fats": "1,3 г",
+        "Carbohydrates": "5,5 г"
+    },
+    {
+        "Title": "—уп-пюре из шпината по 1-184",
+        "Calories": "42 к ал",
+        "Proteins": "1,9 г",
+        "Fats": "2 г",
+        "Carbohydrates": "4 г"
+    },
+    {
+        "Title": "—уп-салат \"—адовый\"",
+        "Calories": "62,8 к ал",
+        "Proteins": "5,6 г",
+        "Fats": "2,8 г",
+        "Carbohydrates": "4 г"
+    },
+    {
+        "Title": "—уп-харчо",
+        "Calories": "43,9 к ал",
+        "Proteins": "2,2 г",
+        "Fats": "2,1 г",
+        "Carbohydrates": "4,3 г"
+    },
+    {
+        "Title": "—уп-харчо (грузинское национальное блюдо)",
+        "Calories": "87,9 к ал",
+        "Proteins": "4,8 г",
+        "Fats": "5,5 г",
+        "Carbohydrates": "5 г"
+    },
+    {
+        "Title": "—ырный суп",
+        "Calories": "93,4 к ал",
+        "Proteins": "4,7 г",
+        "Fats": "6,9 г",
+        "Carbohydrates": "3,2 г"
+    },
+    {
+        "Title": "”ха ладожска€ с кнел€ми и расстега€ми",
+        "Calories": "85,2 к ал",
+        "Proteins": "13,4 г",
+        "Fats": "2,5 г",
+        "Carbohydrates": "2,5 г"
+    },
+    {
+        "Title": "”ха ростовска€",
+        "Calories": "70,1 к ал",
+        "Proteins": "8,5 г",
+        "Fats": "2,2 г",
+        "Carbohydrates": "4,4 г"
+    },
+    {
+        "Title": "”ха рыбацка€",
+        "Calories": "66,7 к ал",
+        "Proteins": "8,5 г",
+        "Fats": "1,9 г",
+        "Carbohydrates": "4,3 г"
+    },
+    {
+        "Title": "”ха с перловой крупой",
+        "Calories": "66,3 к ал",
+        "Proteins": "9,3 г",
+        "Fats": "1 г",
+        "Carbohydrates": "5,4 г"
+    },
+    {
+        "Title": "”ха с расстега€ми",
+        "Calories": "85,3 к ал",
+        "Proteins": "10,4 г",
+        "Fats": "2,9 г",
+        "Carbohydrates": "4,7 г"
+    },
+    {
+        "Title": "‘асолевый суп",
+        "Calories": "48,1 к ал",
+        "Proteins": "2,3 г",
+        "Fats": "1,6 г",
+        "Carbohydrates": "6,6 г"
+    },
+    {
+        "Title": "’арчо",
+        "Calories": "114,9 к ал",
+        "Proteins": "8 г",
+        "Fats": "3,6 г",
+        "Carbohydrates": "13,6 г"
+    },
+    {
+        "Title": "’ирмаса (суп из субпродуктов с лапшой домашней - бур€тское национальное блюдо)",
+        "Calories": "85,6 к ал",
+        "Proteins": "4,3 г",
+        "Fats": "5,5 г",
+        "Carbohydrates": "5 г"
+    },
+    {
+        "Title": "’олодный борщ с редькой",
+        "Calories": "32,3 к ал",
+        "Proteins": "0,9 г",
+        "Fats": "2 г",
+        "Carbohydrates": "2,9 г"
+    },
+    {
+        "Title": "ўи бо€рские",
+        "Calories": "48,3 к ал",
+        "Proteins": "3,5 г",
+        "Fats": "2,6 г",
+        "Carbohydrates": "2,9 г"
+    },
+    {
+        "Title": "ўи зеленые с €йцом",
+        "Calories": "44,9 к ал",
+        "Proteins": "1,9 г",
+        "Fats": "3,2 г",
+        "Carbohydrates": "2,2 г"
+    },
+    {
+        "Title": "ўи из квашеной капусты",
+        "Calories": "37,2 к ал",
+        "Proteins": "2 г",
+        "Fats": "2,8 г",
+        "Carbohydrates": "1 г"
+    },
+    {
+        "Title": "ўи из квашеной капусты",
+        "Calories": "28,7 к ал",
+        "Proteins": "0,8 г",
+        "Fats": "1,7 г",
+        "Carbohydrates": "2,6 г"
+    },
+    {
+        "Title": "ўи из квашеной капусты по 1-132",
+        "Calories": "19 к ал",
+        "Proteins": "0,8 г",
+        "Fats": "1 г",
+        "Carbohydrates": "1,5 г"
+    },
+    {
+        "Title": "ўи из клевера и щавел€",
+        "Calories": "116,3 к ал",
+        "Proteins": "3,3 г",
+        "Fats": "8,9 г",
+        "Carbohydrates": "6,1 г"
+    },
+    {
+        "Title": "ўи из свежей белокочанной капусты",
+        "Calories": "17,1 к ал",
+        "Proteins": "0,5 г",
+        "Fats": "0,8 г",
+        "Carbohydrates": "2,2 г"
+    },
+    {
+        "Title": "ўи из свежей капусты",
+        "Calories": "33,3 к ал",
+        "Proteins": "1 г",
+        "Fats": "1,9 г",
+        "Carbohydrates": "3,4 г"
+    },
+    {
+        "Title": "ўи из свежей капусты по 1-130",
+        "Calories": "24 к ал",
+        "Proteins": "0,9 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "2,5 г"
+    },
+    {
+        "Title": "ўи из свежей капусты с картофелем",
+        "Calories": "41,6 к ал",
+        "Proteins": "1,1 г",
+        "Fats": "2,1 г",
+        "Carbohydrates": "4,9 г"
+    },
+    {
+        "Title": "ўи из щавел€",
+        "Calories": "45,3 к ал",
+        "Proteins": "2,1 г",
+        "Fats": "3,1 г",
+        "Carbohydrates": "2,4 г"
+    },
+    {
+        "Title": "ўи из щавел€ по 1-132",
+        "Calories": "48 к ал",
+        "Proteins": "2,3 г",
+        "Fats": "3,5 г",
+        "Carbohydrates": "1,8 г"
+    },
+    {
+        "Title": "ўи по-уральски (с крупой)",
+        "Calories": "31,5 к ал",
+        "Proteins": "0,8 г",
+        "Fats": "1,8 г",
+        "Carbohydrates": "3,2 г"
+    },
+    {
+        "Title": "ўи с €чневой крупой",
+        "Calories": "47,6 к ал",
+        "Proteins": "2,3 г",
+        "Fats": "3,6 г",
+        "Carbohydrates": "1,6 г"
+    },
+    {
+        "Title": "ўи суточные",
+        "Calories": "46,3 к ал",
+        "Proteins": "1,7 г",
+        "Fats": "3,2 г",
+        "Carbohydrates": "2,8 г"
+    },
+    {
+        "Title": "ўи суточные по 1-134",
+        "Calories": "19 к ал",
+        "Proteins": "0,9 г",
+        "Fats": "1 г",
+        "Carbohydrates": "1,5 г"
+    },
+    {
+        "Title": "ўи томленые с гречневыми блинами",
+        "Calories": "56,8 к ал",
+        "Proteins": "3,5 г",
+        "Fats": "3,7 г",
+        "Carbohydrates": "2,6 г"
+    },
+    {
+        "Title": "ёшка картофельна€ с кабачками и помидорами",
+        "Calories": "74,6 к ал",
+        "Proteins": "3,5 г",
+        "Fats": "4,3 г",
+        "Carbohydrates": "6 г"
+    },
+    {
+        "Title": "яблочный суп со сметаной",
+        "Calories": "50,5 к ал",
+        "Proteins": "0,8 г",
+        "Fats": "3,2 г",
+        "Carbohydrates": "4,9 г"
+    }
+]

@@ -1,0 +1,297 @@
+[
+    {
+        "Title": "‘арш грибной",
+        "Calories": "353,1 к ал",
+        "Proteins": "34 г",
+        "Fats": "20,3 г",
+        "Carbohydrates": "9,1 г"
+    },
+    {
+        "Title": "‘арш из зеленого лука с €йцом",
+        "Calories": "89,1 к ал",
+        "Proteins": "3,1 г",
+        "Fats": "7,1 г",
+        "Carbohydrates": "3,5 г"
+    },
+    {
+        "Title": "‘арш из картофел€ и свинины",
+        "Calories": "260,3 к ал",
+        "Proteins": "9,7 г",
+        "Fats": "18,5 г",
+        "Carbohydrates": "14,7 г"
+    },
+    {
+        "Title": "‘арш из квашеной капусты",
+        "Calories": "53,8 к ал",
+        "Proteins": "1,8 г",
+        "Fats": "3,2 г",
+        "Carbohydrates": "4,7 г"
+    },
+    {
+        "Title": "‘арш из рыбы и капусты",
+        "Calories": "181,2 к ал",
+        "Proteins": "17,7 г",
+        "Fats": "11,1 г",
+        "Carbohydrates": "2,7 г"
+    },
+    {
+        "Title": "‘арш из рыбы и картофел€",
+        "Calories": "176,3 к ал",
+        "Proteins": "18,4 г",
+        "Fats": "8,8 г",
+        "Carbohydrates": "6,2 г"
+    },
+    {
+        "Title": "‘арш из рыбы и €иц",
+        "Calories": "206,2 к ал",
+        "Proteins": "20,9 г",
+        "Fats": "12,9 г",
+        "Carbohydrates": "1,7 г"
+    },
+    {
+        "Title": "‘арш из свежей капусты",
+        "Calories": "97,8 к ал",
+        "Proteins": "3,8 г",
+        "Fats": "7,2 г",
+        "Carbohydrates": "4,8 г"
+    },
+    {
+        "Title": "‘арш картофельный с грибами или луком (1-й вариант)",
+        "Calories": "148,6 к ал",
+        "Proteins": "9,2 г",
+        "Fats": "6,7 г",
+        "Carbohydrates": "13,8 г"
+    },
+    {
+        "Title": "‘арш ливерный с кашей",
+        "Calories": "380,5 к ал",
+        "Proteins": "22,9 г",
+        "Fats": "13,3 г",
+        "Carbohydrates": "45,3 г"
+    },
+    {
+        "Title": "‘арш морковный",
+        "Calories": "91,3 к ал",
+        "Proteins": "2 г",
+        "Fats": "4,8 г",
+        "Carbohydrates": "10,7 г"
+    },
+    {
+        "Title": "‘арш морковный с рисом",
+        "Calories": "188 к ал",
+        "Proteins": "3,4 г",
+        "Fats": "7,2 г",
+        "Carbohydrates": "29,1 г"
+    },
+    {
+        "Title": "‘арш морковный с €йцом",
+        "Calories": "128,9 к ал",
+        "Proteins": "3,7 г",
+        "Fats": "8,9 г",
+        "Carbohydrates": "9,1 г"
+    },
+    {
+        "Title": "‘арш м€сной с рисом и €йцом",
+        "Calories": "362,7 к ал",
+        "Proteins": "26,5 г",
+        "Fats": "20,1 г",
+        "Carbohydrates": "20,1 г"
+    },
+    {
+        "Title": "‘арш рисовый с грибами",
+        "Calories": "366,2 к ал",
+        "Proteins": "10,5 г",
+        "Fats": "8 г",
+        "Carbohydrates": "67,3 г"
+    },
+    {
+        "Title": "‘арш рисовый с €йцом",
+        "Calories": "352,9 к ал",
+        "Proteins": "8 г",
+        "Fats": "8,5 г",
+        "Carbohydrates": "65,1 г"
+    },
+    {
+        "Title": "‘арш рыбный",
+        "Calories": "286,2 к ал",
+        "Proteins": "35,4 г",
+        "Fats": "15,1 г",
+        "Carbohydrates": "2,2 г"
+    },
+    {
+        "Title": "‘арш рыбный с рисом",
+        "Calories": "291,7 к ал",
+        "Proteins": "27,2 г",
+        "Fats": "8,1 г",
+        "Carbohydrates": "29,3 г"
+    },
+    {
+        "Title": "‘арш рыбный с рисом и визигой",
+        "Calories": "241,4 к ал",
+        "Proteins": "29,8 г",
+        "Fats": "8,7 г",
+        "Carbohydrates": "11,6 г"
+    },
+    {
+        "Title": "‘арш творожный (дл€ ватрушек, пирожков и вареников)",
+        "Calories": "266,4 к ал",
+        "Proteins": "13,1 г",
+        "Fats": "18,1 г",
+        "Carbohydrates": "13,8 г"
+    },
+    {
+        "Title": "‘арш €блочный",
+        "Calories": "149,1 к ал",
+        "Proteins": "0,4 г",
+        "Fats": "0,4 г",
+        "Carbohydrates": "38,3 г"
+    }
+][
+    {
+        "Title": "‘арш грибной",
+        "Calories": "353,1 к ал",
+        "Proteins": "34 г",
+        "Fats": "20,3 г",
+        "Carbohydrates": "9,1 г"
+    },
+    {
+        "Title": "‘арш из зеленого лука с €йцом",
+        "Calories": "89,1 к ал",
+        "Proteins": "3,1 г",
+        "Fats": "7,1 г",
+        "Carbohydrates": "3,5 г"
+    },
+    {
+        "Title": "‘арш из картофел€ и свинины",
+        "Calories": "260,3 к ал",
+        "Proteins": "9,7 г",
+        "Fats": "18,5 г",
+        "Carbohydrates": "14,7 г"
+    },
+    {
+        "Title": "‘арш из квашеной капусты",
+        "Calories": "53,8 к ал",
+        "Proteins": "1,8 г",
+        "Fats": "3,2 г",
+        "Carbohydrates": "4,7 г"
+    },
+    {
+        "Title": "‘арш из рыбы и капусты",
+        "Calories": "181,2 к ал",
+        "Proteins": "17,7 г",
+        "Fats": "11,1 г",
+        "Carbohydrates": "2,7 г"
+    },
+    {
+        "Title": "‘арш из рыбы и картофел€",
+        "Calories": "176,3 к ал",
+        "Proteins": "18,4 г",
+        "Fats": "8,8 г",
+        "Carbohydrates": "6,2 г"
+    },
+    {
+        "Title": "‘арш из рыбы и €иц",
+        "Calories": "206,2 к ал",
+        "Proteins": "20,9 г",
+        "Fats": "12,9 г",
+        "Carbohydrates": "1,7 г"
+    },
+    {
+        "Title": "‘арш из свежей капусты",
+        "Calories": "97,8 к ал",
+        "Proteins": "3,8 г",
+        "Fats": "7,2 г",
+        "Carbohydrates": "4,8 г"
+    },
+    {
+        "Title": "‘арш картофельный с грибами или луком (1-й вариант)",
+        "Calories": "148,6 к ал",
+        "Proteins": "9,2 г",
+        "Fats": "6,7 г",
+        "Carbohydrates": "13,8 г"
+    },
+    {
+        "Title": "‘арш ливерный с кашей",
+        "Calories": "380,5 к ал",
+        "Proteins": "22,9 г",
+        "Fats": "13,3 г",
+        "Carbohydrates": "45,3 г"
+    },
+    {
+        "Title": "‘арш морковный",
+        "Calories": "91,3 к ал",
+        "Proteins": "2 г",
+        "Fats": "4,8 г",
+        "Carbohydrates": "10,7 г"
+    },
+    {
+        "Title": "‘арш морковный с рисом",
+        "Calories": "188 к ал",
+        "Proteins": "3,4 г",
+        "Fats": "7,2 г",
+        "Carbohydrates": "29,1 г"
+    },
+    {
+        "Title": "‘арш морковный с €йцом",
+        "Calories": "128,9 к ал",
+        "Proteins": "3,7 г",
+        "Fats": "8,9 г",
+        "Carbohydrates": "9,1 г"
+    },
+    {
+        "Title": "‘арш м€сной с рисом и €йцом",
+        "Calories": "362,7 к ал",
+        "Proteins": "26,5 г",
+        "Fats": "20,1 г",
+        "Carbohydrates": "20,1 г"
+    },
+    {
+        "Title": "‘арш рисовый с грибами",
+        "Calories": "366,2 к ал",
+        "Proteins": "10,5 г",
+        "Fats": "8 г",
+        "Carbohydrates": "67,3 г"
+    },
+    {
+        "Title": "‘арш рисовый с €йцом",
+        "Calories": "352,9 к ал",
+        "Proteins": "8 г",
+        "Fats": "8,5 г",
+        "Carbohydrates": "65,1 г"
+    },
+    {
+        "Title": "‘арш рыбный",
+        "Calories": "286,2 к ал",
+        "Proteins": "35,4 г",
+        "Fats": "15,1 г",
+        "Carbohydrates": "2,2 г"
+    },
+    {
+        "Title": "‘арш рыбный с рисом",
+        "Calories": "291,7 к ал",
+        "Proteins": "27,2 г",
+        "Fats": "8,1 г",
+        "Carbohydrates": "29,3 г"
+    },
+    {
+        "Title": "‘арш рыбный с рисом и визигой",
+        "Calories": "241,4 к ал",
+        "Proteins": "29,8 г",
+        "Fats": "8,7 г",
+        "Carbohydrates": "11,6 г"
+    },
+    {
+        "Title": "‘арш творожный (дл€ ватрушек, пирожков и вареников)",
+        "Calories": "266,4 к ал",
+        "Proteins": "13,1 г",
+        "Fats": "18,1 г",
+        "Carbohydrates": "13,8 г"
+    },
+    {
+        "Title": "‘арш €блочный",
+        "Calories": "149,1 к ал",
+        "Proteins": "0,4 г",
+        "Fats": "0,4 г",
+        "Carbohydrates": "38,3 г"
+    }
+]
